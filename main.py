@@ -79,8 +79,10 @@ draft_rank = []
 url = "https://draft.premierleague.com/api/bootstrap-static"
 headers = {"Cookie": "pl_euconsent-v2=CPnHJ0HPnHJ0HFCABAENC3CsAP_AAH_AAAwIF5wAQF5gXnABAXmAAAAA.YAAAAAAAAAAA; pl_euconsent-v2-intent-confirmed={%22tcf%22:[755]%2C%22oob%22:[]}; pl_oob-vendors={}"}
 response = requests.request("GET", url, headers=headers)
+while response.status_code != 200:
+    time.sleep(5)
+    response = requests.request("GET", url, headers=headers)
 data = response.json()
-
 
 for i in range(len(data['elements'])):
     player_id.append(data['elements'][i]['id'])
@@ -88,6 +90,13 @@ for i in range(len(data['elements'])):
     second_name.append(data['elements'][i]['second_name'])
     web_name.append(data['elements'][i]['web_name'])
     draft_rank.append(data['elements'][i]['draft_rank'])
+
+# get deadline data
+gw_deadline = []
+time_deadline = []
+for i in data['events']['data']:
+    gw_deadline.append(i['id'])
+    time_deadline.append(i['deadline_time'])
 
 # create player info dict
 player_dict = {}
@@ -102,19 +111,6 @@ for key, value in player_dict.items():
 
 # add playerPoints, first_name, second_name, web_name to player_info_df
 player_data_df = player_info_df.merge(player_points_df, left_on=['playerId','gameweek'], right_on=['playerId', 'gw'])
-
-# get deadline data
-gw_deadline = []
-time_deadline = []
-
-for name, uid, in players.items():
-    url = "https://draft.premierleague.com/api/bootstrap-static"
-    headers = {"Cookie": "pl_euconsent-v2=CPnHJ0HPnHJ0HFCABAENC3CsAP_AAH_AAAwIF5wAQF5gXnABAXmAAAAA.YAAAAAAAAAAA; pl_euconsent-v2-intent-confirmed={%22tcf%22:[755]%2C%22oob%22:[]}; pl_oob-vendors={}"}
-    response = requests.request("GET", url, headers=headers)
-    data = response.json()
-    for i in data['events']['data']:
-        gw_deadline.append(i['id'])
-        time_deadline.append(i['deadline_time'])
 
 # add deadlines to the dataframe
 deadline = dict(map(lambda i,j : (i,j) , gw_deadline,time_deadline))
@@ -208,6 +204,5 @@ player_data_df.bought=player_data_df.groupby(['web_name', 'name']).bought.apply(
 player_data_df.sold=player_data_df.sort_values('gw', ascending=False).groupby(['web_name', 'name']).sold.apply(lambda x : x.ffill().bfill())
 # fix values where sold gw is earlier than bought. Issue for when a previously owned player comes back into team but hasnt been sold yet
 player_data_df['sold'] = np.where(player_data_df.sold < player_data_df.bought, np.nan, player_data_df.sold)
-
 
 player_data_df.to_csv('draft_data.csv')
