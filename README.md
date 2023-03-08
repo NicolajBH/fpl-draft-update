@@ -7,3 +7,5 @@ main.py scrapes data from the FPL website and merges the data into a single data
 Uses github actions to run main.py every hour to update the data. Can be changed to different time intervals in actions.yml.
 
 Can be made to work with other draft leagues by editing the 'players' dictionary in main.py
+
+Discord folder contains files to run a bot on discord that outputs some of the information collected.
