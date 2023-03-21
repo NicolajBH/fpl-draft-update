@@ -27,7 +27,8 @@ monthly_standings.drop(columns=monthly_standings.columns[0], inplace=True)
 monthly_standings = monthly_standings[['name', 'month', 'Month Score', 'rank', 'Total Points']]
 
 # Add the top scoring player for each person every month
-top_player = players_df.sort_values('monthlyPoints', ascending=False).drop_duplicates(subset=('name', 'month'))
+top_player = players_df.sort_values(['monthlyPoints','draft_rank'], ascending=[False, True])\
+            .drop_duplicates(subset=('name', 'month'))
 top_player = top_player.sort_values('deadline')
 top_player = top_player[['web_name', 'short_name', 'month', 'name', 'monthlyPoints']]
 monthly_standings = monthly_standings.merge(top_player, left_on=['name','month'], right_on=['name', 'month'])
