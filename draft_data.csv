@@ -33,7 +33,7 @@
 31,284,3,15606,2,1,3,Andrew,Robertson,Robertson,40,2022-08-20T10:00:00Z,Nicolaj,August,4,True,Robertson,1.0,22.0
 32,85,3,15606,3,1,3,Rico,Henry,Henry,419,2022-08-20T10:00:00Z,Nicolaj,August,1,True,Henry,3.0,4.0
 33,308,3,15606,4,1,3,Nathan,Aké,Aké,266,2022-08-20T10:00:00Z,Nicolaj,August,1,True,Aké,3.0,4.0
-34,26,3,15606,5,14,3,William,Saliba,Saliba,545,2022-08-20T10:00:00Z,Nicolaj,August,14,True,Saliba,3.0,
+34,26,3,15606,5,14,3,William,Saliba,Saliba,546,2022-08-20T10:00:00Z,Nicolaj,August,14,True,Saliba,3.0,
 35,139,3,15606,6,1,3,Ben,Chilwell,Chilwell,96,2022-08-20T10:00:00Z,Nicolaj,August,10,True,Chilwell,1.0,5.0
 36,283,3,15606,7,8,3,Mohamed,Salah,Salah,1,2022-08-20T10:00:00Z,Nicolaj,August,22,True,Salah,1.0,22.0
 37,13,3,15606,8,3,3,Bukayo,Saka,Saka,16,2022-08-20T10:00:00Z,Nicolaj,August,11,True,Saka,1.0,9.0
@@ -47,7 +47,7 @@
 45,15,4,15606,1,2,4,Aaron,Ramsdale,Ramsdale,214,2022-08-27T10:00:00Z,Nicolaj,August,15,True,Ramsdale,1.0,7.0
 46,284,4,15606,2,9,4,Andrew,Robertson,Robertson,40,2022-08-27T10:00:00Z,Nicolaj,August,13,True,Robertson,1.0,22.0
 47,430,4,15606,3,6,4,Eric,Dier,Dier,216,2022-08-27T10:00:00Z,Nicolaj,August,6,True,Dier,4.0,15.0
-48,26,4,15606,4,7,4,William,Saliba,Saliba,545,2022-08-27T10:00:00Z,Nicolaj,August,21,True,Saliba,3.0,
+48,26,4,15606,4,7,4,William,Saliba,Saliba,546,2022-08-27T10:00:00Z,Nicolaj,August,21,True,Saliba,3.0,
 49,106,4,15606,5,7,4,Lewis,Dunk,Dunk,432,2022-08-27T10:00:00Z,Nicolaj,August,7,True,Dunk,4.0,6.0
 50,283,4,15606,6,3,4,Mohamed,Salah,Salah,1,2022-08-27T10:00:00Z,Nicolaj,August,25,True,Salah,1.0,22.0
 51,13,4,15606,7,5,4,Bukayo,Saka,Saka,16,2022-08-27T10:00:00Z,Nicolaj,August,16,True,Saka,1.0,9.0
@@ -62,7 +62,7 @@
 60,15,5,15606,1,2,5,Aaron,Ramsdale,Ramsdale,214,2022-08-30T17:00:00Z,Nicolaj,August,17,True,Ramsdale,1.0,7.0
 61,284,5,15606,2,2,5,Andrew,Robertson,Robertson,40,2022-08-30T17:00:00Z,Nicolaj,August,15,True,Robertson,1.0,22.0
 62,430,5,15606,3,3,5,Eric,Dier,Dier,216,2022-08-30T17:00:00Z,Nicolaj,August,9,True,Dier,4.0,15.0
-63,26,5,15606,4,1,5,William,Saliba,Saliba,545,2022-08-30T17:00:00Z,Nicolaj,August,22,True,Saliba,3.0,
+63,26,5,15606,4,1,5,William,Saliba,Saliba,546,2022-08-30T17:00:00Z,Nicolaj,August,22,True,Saliba,3.0,
 64,106,5,15606,5,-1,5,Lewis,Dunk,Dunk,432,2022-08-30T17:00:00Z,Nicolaj,August,6,True,Dunk,4.0,6.0
 65,302,5,15606,6,10,5,John,Stones,Stones,153,2022-08-30T17:00:00Z,Nicolaj,August,10,True,Stones,5.0,9.0
 66,283,5,15606,7,10,5,Mohamed,Salah,Salah,1,2022-08-30T17:00:00Z,Nicolaj,August,35,True,Salah,1.0,22.0
@@ -88,10 +88,10 @@
 86,15,6,15606,12,2,6,Aaron,Ramsdale,Ramsdale,214,2022-09-03T10:00:00Z,Nicolaj,September,2,False,Ramsdale,1.0,7.0
 87,319,6,15606,13,0,6,Julián,Álvarez,Álvarez,66,2022-09-03T10:00:00Z,Nicolaj,September,0,False,Álvarez,5.0,7.0
 88,340,6,15606,14,2,6,Jadon,Sancho,Sancho,34,2022-09-03T10:00:00Z,Nicolaj,September,2,False,Sancho,4.0,7.0
-89,26,6,15606,15,0,6,William,Saliba,Saliba,545,2022-09-03T10:00:00Z,Nicolaj,September,0,False,Saliba,3.0,
+89,26,6,15606,15,0,6,William,Saliba,Saliba,546,2022-09-03T10:00:00Z,Nicolaj,September,0,False,Saliba,3.0,
 90,376,7,15606,1,0,7,Nick,Pope,Pope,219,2022-09-10T10:00:00Z,Nicolaj,September,0,True,Pope,7.0,
 91,284,7,15606,2,0,7,Andrew,Robertson,Robertson,40,2022-09-10T10:00:00Z,Nicolaj,September,1,True,Robertson,1.0,22.0
-92,26,7,15606,3,0,7,William,Saliba,Saliba,545,2022-09-10T10:00:00Z,Nicolaj,September,0,True,Saliba,3.0,
+92,26,7,15606,3,0,7,William,Saliba,Saliba,546,2022-09-10T10:00:00Z,Nicolaj,September,0,True,Saliba,3.0,
 93,586,7,15606,4,0,7,Pervis,Estupiñán,Estupiñán,413,2022-09-10T10:00:00Z,Nicolaj,September,1,True,Estupiñán,6.0,8.0
 94,283,7,15606,5,0,7,Mohamed,Salah,Salah,1,2022-09-10T10:00:00Z,Nicolaj,September,3,True,Salah,1.0,22.0
 95,13,7,15606,6,0,7,Bukayo,Saka,Saka,16,2022-09-10T10:00:00Z,Nicolaj,September,7,True,Saka,1.0,9.0
@@ -106,9 +106,9 @@
 104,430,7,15606,15,0,7,Eric,Dier,Dier,216,2022-09-10T10:00:00Z,Nicolaj,September,2,False,Dier,4.0,15.0
 105,376,8,15606,1,2,8,Nick,Pope,Pope,219,2022-09-16T17:30:00Z,Nicolaj,September,2,True,Pope,7.0,
 106,302,8,15606,2,6,8,John,Stones,Stones,153,2022-09-16T17:30:00Z,Nicolaj,September,8,True,Stones,5.0,9.0
-107,26,8,15606,3,15,8,William,Saliba,Saliba,545,2022-09-16T17:30:00Z,Nicolaj,September,15,True,Saliba,3.0,
+107,26,8,15606,3,15,8,William,Saliba,Saliba,546,2022-09-16T17:30:00Z,Nicolaj,September,15,True,Saliba,3.0,
 108,430,8,15606,4,7,8,Eric,Dier,Dier,216,2022-09-16T17:30:00Z,Nicolaj,September,9,True,Dier,4.0,15.0
-109,295,8,15606,5,1,8,Neco,Williams,N.Williams,716,2022-09-16T17:30:00Z,Nicolaj,September,1,True,N.Williams,8.0,9.0
+109,295,8,15606,5,1,8,Neco,Williams,N.Williams,717,2022-09-16T17:30:00Z,Nicolaj,September,1,True,N.Williams,8.0,9.0
 110,13,8,15606,6,9,8,Bukayo,Saka,Saka,16,2022-09-16T17:30:00Z,Nicolaj,September,16,True,Saka,1.0,9.0
 111,300,8,15606,7,1,8,Ilkay,Gündogan,Gündogan,33,2022-09-16T17:30:00Z,Nicolaj,September,3,True,Gündogan,4.0,9.0
 112,45,8,15606,8,3,8,Leon,Bailey,Bailey,275,2022-09-16T17:30:00Z,Nicolaj,September,3,True,Bailey,8.0,9.0
@@ -120,9 +120,9 @@
 118,283,8,15606,14,0,8,Mohamed,Salah,Salah,1,2022-09-16T17:30:00Z,Nicolaj,September,3,False,Salah,1.0,22.0
 119,609,8,15606,15,0,8,Antony Matheus,dos Santos,Antony,30,2022-09-16T17:30:00Z,Nicolaj,September,0,False,Antony,7.0,19.0
 120,81,9,15606,1,6,9,David,Raya Martin,Raya,428,2022-10-01T10:00:00Z,Nicolaj,October,6,True,Raya,1.0,16.0
-121,292,9,15606,2,0,9,Konstantinos,Tsimikas,Tsimikas,477,2022-10-01T10:00:00Z,Nicolaj,October,0,True,Tsimikas,9.0,10.0
+121,292,9,15606,2,0,9,Konstantinos,Tsimikas,Tsimikas,478,2022-10-01T10:00:00Z,Nicolaj,October,0,True,Tsimikas,9.0,10.0
 122,430,9,15606,3,0,9,Eric,Dier,Dier,216,2022-10-01T10:00:00Z,Nicolaj,October,0,True,Dier,4.0,15.0
-123,26,9,15606,4,1,9,William,Saliba,Saliba,545,2022-10-01T10:00:00Z,Nicolaj,October,1,True,Saliba,3.0,
+123,26,9,15606,4,1,9,William,Saliba,Saliba,546,2022-10-01T10:00:00Z,Nicolaj,October,1,True,Saliba,3.0,
 124,283,9,15606,5,5,9,Mohamed,Salah,Salah,1,2022-10-01T10:00:00Z,Nicolaj,October,5,True,Salah,1.0,22.0
 125,264,9,15606,6,8,9,Harvey,Barnes,Barnes,45,2022-10-01T10:00:00Z,Nicolaj,October,8,True,Barnes,9.0,16.0
 126,580,9,15606,7,3,9,Mikkel,Damsgaard,Damsgaard,120,2022-10-01T10:00:00Z,Nicolaj,October,3,True,Damsgaard,9.0,11.0
@@ -135,7 +135,7 @@
 133,463,9,15606,14,0,9,Vladimir,Coufal,Coufal,448,2022-10-01T10:00:00Z,Nicolaj,October,0,False,Coufal,9.0,10.0
 134,284,9,15606,15,0,9,Andrew,Robertson,Robertson,40,2022-10-01T10:00:00Z,Nicolaj,October,0,False,Robertson,1.0,22.0
 135,376,10,15606,1,2,10,Nick,Pope,Pope,219,2022-10-08T12:30:00Z,Nicolaj,October,4,True,Pope,7.0,
-136,26,10,15606,2,1,10,William,Saliba,Saliba,545,2022-10-08T12:30:00Z,Nicolaj,October,2,True,Saliba,3.0,
+136,26,10,15606,2,1,10,William,Saliba,Saliba,546,2022-10-08T12:30:00Z,Nicolaj,October,2,True,Saliba,3.0,
 137,258,10,15606,3,7,10,Timothy,Castagne,Castagne,445,2022-10-08T12:30:00Z,Nicolaj,October,7,True,Castagne,10.0,21.0
 138,430,10,15606,4,6,10,Eric,Dier,Dier,216,2022-10-08T12:30:00Z,Nicolaj,October,6,True,Dier,4.0,15.0
 139,283,10,15606,5,2,10,Mohamed,Salah,Salah,1,2022-10-08T12:30:00Z,Nicolaj,October,7,True,Salah,1.0,22.0
@@ -152,7 +152,7 @@
 150,81,11,15606,1,10,11,David,Raya Martin,Raya,428,2022-10-14T17:30:00Z,Nicolaj,October,16,True,Raya,1.0,16.0
 151,430,11,15606,2,6,11,Eric,Dier,Dier,216,2022-10-14T17:30:00Z,Nicolaj,October,12,True,Dier,4.0,15.0
 152,128,11,15606,3,7,11,Thiago,Emiliano da Silva,Thiago Silva,116,2022-10-14T17:30:00Z,Nicolaj,October,7,True,Thiago Silva,10.0,15.0
-153,26,11,15606,4,5,11,William,Saliba,Saliba,545,2022-10-14T17:30:00Z,Nicolaj,October,7,True,Saliba,3.0,
+153,26,11,15606,4,5,11,William,Saliba,Saliba,546,2022-10-14T17:30:00Z,Nicolaj,October,7,True,Saliba,3.0,
 154,111,11,15606,5,2,11,Leandro,Trossard,Trossard,56,2022-10-14T17:30:00Z,Nicolaj,October,2,True,Trossard,11.0,19.0
 155,264,11,15606,6,3,11,Harvey,Barnes,Barnes,45,2022-10-14T17:30:00Z,Nicolaj,October,13,True,Barnes,9.0,16.0
 156,283,11,15606,7,8,11,Mohamed,Salah,Salah,1,2022-10-14T17:30:00Z,Nicolaj,October,15,True,Salah,1.0,22.0
@@ -178,9 +178,9 @@
 176,81,12,15606,12,10,12,David,Raya Martin,Raya,428,2022-10-18T17:00:00Z,Nicolaj,October,26,False,Raya,1.0,16.0
 177,128,12,15606,13,0,12,Thiago,Emiliano da Silva,Thiago Silva,116,2022-10-18T17:00:00Z,Nicolaj,October,7,False,Thiago Silva,10.0,15.0
 178,318,12,15606,14,0,12,Erling,Haaland,Haaland,5,2022-10-18T17:00:00Z,Nicolaj,October,31,False,Haaland,6.0,15.0
-179,26,12,15606,15,0,12,William,Saliba,Saliba,545,2022-10-18T17:00:00Z,Nicolaj,October,7,False,Saliba,3.0,
+179,26,12,15606,15,0,12,William,Saliba,Saliba,546,2022-10-18T17:00:00Z,Nicolaj,October,7,False,Saliba,3.0,
 180,81,13,15606,1,2,13,David,Raya Martin,Raya,428,2022-10-22T10:00:00Z,Nicolaj,October,28,True,Raya,1.0,16.0
-181,26,13,15606,2,2,13,William,Saliba,Saliba,545,2022-10-22T10:00:00Z,Nicolaj,October,9,True,Saliba,3.0,
+181,26,13,15606,2,2,13,William,Saliba,Saliba,546,2022-10-22T10:00:00Z,Nicolaj,October,9,True,Saliba,3.0,
 182,258,13,15606,3,12,13,Timothy,Castagne,Castagne,445,2022-10-22T10:00:00Z,Nicolaj,October,31,True,Castagne,10.0,21.0
 183,284,13,15606,4,2,13,Andrew,Robertson,Robertson,40,2022-10-22T10:00:00Z,Nicolaj,October,9,True,Robertson,1.0,22.0
 184,430,13,15606,5,1,13,Eric,Dier,Dier,216,2022-10-22T10:00:00Z,Nicolaj,October,14,True,Dier,4.0,15.0
@@ -198,7 +198,7 @@
 196,284,14,15606,2,7,14,Andrew,Robertson,Robertson,40,2022-10-29T10:00:00Z,Nicolaj,October,16,True,Robertson,1.0,22.0
 197,128,14,15606,3,0,14,Thiago,Emiliano da Silva,Thiago Silva,116,2022-10-29T10:00:00Z,Nicolaj,October,9,True,Thiago Silva,10.0,15.0
 198,430,14,15606,4,1,14,Eric,Dier,Dier,216,2022-10-29T10:00:00Z,Nicolaj,October,15,True,Dier,4.0,15.0
-199,26,14,15606,5,7,14,William,Saliba,Saliba,545,2022-10-29T10:00:00Z,Nicolaj,October,16,True,Saliba,3.0,
+199,26,14,15606,5,7,14,William,Saliba,Saliba,546,2022-10-29T10:00:00Z,Nicolaj,October,16,True,Saliba,3.0,
 200,283,14,15606,6,7,14,Mohamed,Salah,Salah,1,2022-10-29T10:00:00Z,Nicolaj,October,27,True,Salah,1.0,22.0
 201,465,14,15606,7,2,14,Jarrod,Bowen,Bowen,13,2022-10-29T10:00:00Z,Nicolaj,October,14,True,Bowen,10.0,20.0
 202,111,14,15606,8,7,14,Leandro,Trossard,Trossard,56,2022-10-29T10:00:00Z,Nicolaj,October,19,True,Trossard,11.0,19.0
@@ -223,11 +223,11 @@
 221,376,15,15606,12,3,15,Nick,Pope,Pope,219,2022-11-05T13:30:00Z,Nicolaj,November,3,False,Pope,7.0,
 222,609,15,15606,13,0,15,Antony Matheus,dos Santos,Antony,30,2022-11-05T13:30:00Z,Nicolaj,November,0,False,Antony,7.0,19.0
 223,617,15,15606,14,1,15,Pierre-Emerick,Aubameyang,Aubameyang,10,2022-11-05T13:30:00Z,Nicolaj,November,1,False,Aubameyang,10.0,17.0
-224,26,15,15606,15,8,15,William,Saliba,Saliba,545,2022-11-05T13:30:00Z,Nicolaj,November,8,False,Saliba,3.0,
+224,26,15,15606,15,8,15,William,Saliba,Saliba,546,2022-11-05T13:30:00Z,Nicolaj,November,8,False,Saliba,3.0,
 225,152,16,15606,1,2,16,Vicente,Guaita,Guaita,411,2022-11-12T11:00:00Z,Nicolaj,November,2,True,Guaita,16.0,17.0
 226,284,16,15606,2,9,16,Andrew,Robertson,Robertson,40,2022-11-12T11:00:00Z,Nicolaj,November,11,True,Robertson,1.0,22.0
 227,313,16,15606,3,7,16,Oleksandr,Zinchenko,Zinchenko,259,2022-11-12T11:00:00Z,Nicolaj,November,7,True,Zinchenko,16.0,17.0
-228,26,16,15606,4,6,16,William,Saliba,Saliba,545,2022-11-12T11:00:00Z,Nicolaj,November,14,True,Saliba,3.0,
+228,26,16,15606,4,6,16,William,Saliba,Saliba,546,2022-11-12T11:00:00Z,Nicolaj,November,14,True,Saliba,3.0,
 229,258,16,15606,5,6,16,Timothy,Castagne,Castagne,445,2022-11-12T11:00:00Z,Nicolaj,November,12,True,Castagne,10.0,21.0
 230,586,16,15606,6,1,16,Pervis,Estupiñán,Estupiñán,413,2022-11-12T11:00:00Z,Nicolaj,November,2,True,Estupiñán,15.0,18.0
 231,283,16,15606,7,2,16,Mohamed,Salah,Salah,1,2022-11-12T11:00:00Z,Nicolaj,November,17,True,Salah,1.0,22.0
@@ -239,10 +239,10 @@
 237,609,16,15606,13,0,16,Antony Matheus,dos Santos,Antony,30,2022-11-12T11:00:00Z,Nicolaj,November,0,False,Antony,7.0,19.0
 238,303,16,15606,14,0,16,Riyad,Mahrez,Mahrez,20,2022-11-12T11:00:00Z,Nicolaj,November,0,False,Mahrez,16.0,17.0
 239,617,16,15606,15,0,16,Pierre-Emerick,Aubameyang,Aubameyang,10,2022-11-12T11:00:00Z,Nicolaj,November,1,False,Aubameyang,10.0,17.0
-240,133,17,15606,1,9,17,Kepa,Arrizabalaga,Arrizabalaga,509,2022-12-26T11:00:00Z,Nicolaj,December,9,True,Arrizabalaga,17.0,
+240,133,17,15606,1,9,17,Kepa,Arrizabalaga,Arrizabalaga,510,2022-12-26T11:00:00Z,Nicolaj,December,9,True,Arrizabalaga,17.0,
 241,284,17,15606,2,8,17,Andrew,Robertson,Robertson,40,2022-12-26T11:00:00Z,Nicolaj,December,8,True,Robertson,1.0,22.0
 242,429,17,15606,3,1,17,Matt,Doherty,Doherty,251,2022-12-26T11:00:00Z,Nicolaj,December,1,True,Doherty,17.0,19.0
-243,26,17,15606,4,2,17,William,Saliba,Saliba,545,2022-12-26T11:00:00Z,Nicolaj,December,2,True,Saliba,3.0,
+243,26,17,15606,4,2,17,William,Saliba,Saliba,546,2022-12-26T11:00:00Z,Nicolaj,December,2,True,Saliba,3.0,
 244,586,17,15606,5,2,17,Pervis,Estupiñán,Estupiñán,413,2022-12-26T11:00:00Z,Nicolaj,December,2,True,Estupiñán,15.0,18.0
 245,283,17,15606,6,12,17,Mohamed,Salah,Salah,1,2022-12-26T11:00:00Z,Nicolaj,December,12,True,Salah,1.0,22.0
 246,333,17,15606,7,3,17,Bruno,Borges Fernandes,Fernandes,8,2022-12-26T11:00:00Z,Nicolaj,December,3,True,Fernandes,17.0,
@@ -254,11 +254,11 @@
 252,356,17,15606,13,0,17,Callum,Wilson,Wilson,35,2022-12-26T11:00:00Z,Nicolaj,December,0,False,Wilson,9.0,25.0
 253,258,17,15606,14,1,17,Timothy,Castagne,Castagne,445,2022-12-26T11:00:00Z,Nicolaj,December,1,False,Castagne,10.0,21.0
 254,465,17,15606,15,4,17,Jarrod,Bowen,Bowen,13,2022-12-26T11:00:00Z,Nicolaj,December,4,False,Bowen,10.0,20.0
-255,133,18,15606,1,3,18,Kepa,Arrizabalaga,Arrizabalaga,509,2022-12-30T18:15:00Z,Nicolaj,December,12,True,Arrizabalaga,17.0,
+255,133,18,15606,1,3,18,Kepa,Arrizabalaga,Arrizabalaga,510,2022-12-30T18:15:00Z,Nicolaj,December,12,True,Arrizabalaga,17.0,
 256,429,18,15606,2,1,18,Matt,Doherty,Doherty,251,2022-12-30T18:15:00Z,Nicolaj,December,2,True,Doherty,17.0,19.0
 257,284,18,15606,3,2,18,Andrew,Robertson,Robertson,40,2022-12-30T18:15:00Z,Nicolaj,December,10,True,Robertson,1.0,22.0
-258,26,18,15606,4,1,18,William,Saliba,Saliba,545,2022-12-30T18:15:00Z,Nicolaj,December,3,True,Saliba,3.0,
-259,377,18,15606,5,6,18,Sven,Botman,Botman,578,2022-12-30T18:15:00Z,Nicolaj,December,6,True,Botman,18.0,25.0
+258,26,18,15606,4,1,18,William,Saliba,Saliba,546,2022-12-30T18:15:00Z,Nicolaj,December,3,True,Saliba,3.0,
+259,377,18,15606,5,6,18,Sven,Botman,Botman,579,2022-12-30T18:15:00Z,Nicolaj,December,6,True,Botman,18.0,25.0
 260,333,18,15606,6,6,18,Bruno,Borges Fernandes,Fernandes,8,2022-12-30T18:15:00Z,Nicolaj,December,9,True,Fernandes,17.0,
 261,283,18,15606,7,2,18,Mohamed,Salah,Salah,1,2022-12-30T18:15:00Z,Nicolaj,December,14,True,Salah,1.0,22.0
 262,609,18,15606,8,3,18,Antony Matheus,dos Santos,Antony,30,2022-12-30T18:15:00Z,Nicolaj,December,6,True,Antony,7.0,19.0
@@ -269,7 +269,7 @@
 267,356,18,15606,13,0,18,Callum,Wilson,Wilson,35,2022-12-30T18:15:00Z,Nicolaj,December,0,False,Wilson,9.0,25.0
 268,111,18,15606,14,1,18,Leandro,Trossard,Trossard,56,2022-12-30T18:15:00Z,Nicolaj,December,3,False,Trossard,11.0,19.0
 269,258,18,15606,15,1,18,Timothy,Castagne,Castagne,445,2022-12-30T18:15:00Z,Nicolaj,December,2,False,Castagne,10.0,21.0
-270,133,19,15606,1,3,19,Kepa,Arrizabalaga,Arrizabalaga,509,2023-01-02T16:00:00Z,Nicolaj,January,3,True,Arrizabalaga,17.0,
+270,133,19,15606,1,3,19,Kepa,Arrizabalaga,Arrizabalaga,510,2023-01-02T16:00:00Z,Nicolaj,January,3,True,Arrizabalaga,17.0,
 271,128,19,15606,2,3,19,Thiago,Emiliano da Silva,Thiago Silva,116,2023-01-02T16:00:00Z,Nicolaj,January,3,True,Thiago Silva,19.0,20.0
 272,284,19,15606,3,1,19,Andrew,Robertson,Robertson,40,2023-01-02T16:00:00Z,Nicolaj,January,1,True,Robertson,1.0,22.0
 273,258,19,15606,4,1,19,Timothy,Castagne,Castagne,445,2023-01-02T16:00:00Z,Nicolaj,January,1,True,Castagne,10.0,21.0
@@ -281,28 +281,28 @@
 279,11,19,15606,10,1,19,Eddie,Nketiah,Nketiah,51,2023-01-02T16:00:00Z,Nicolaj,January,1,True,Nketiah,17.0,22.0
 280,145,19,15606,11,4,19,Kai,Havertz,Havertz,22,2023-01-02T16:00:00Z,Nicolaj,January,4,True,Havertz,17.0,23.0
 281,376,19,15606,12,10,19,Nick,Pope,Pope,219,2023-01-02T16:00:00Z,Nicolaj,January,10,False,Pope,7.0,
-282,26,19,15606,13,7,19,William,Saliba,Saliba,545,2023-01-02T16:00:00Z,Nicolaj,January,7,False,Saliba,3.0,
+282,26,19,15606,13,7,19,William,Saliba,Saliba,546,2023-01-02T16:00:00Z,Nicolaj,January,7,False,Saliba,3.0,
 283,356,19,15606,14,1,19,Callum,Wilson,Wilson,35,2023-01-02T16:00:00Z,Nicolaj,January,1,False,Wilson,9.0,25.0
-284,377,19,15606,15,6,19,Sven,Botman,Botman,578,2023-01-02T16:00:00Z,Nicolaj,January,6,False,Botman,18.0,25.0
+284,377,19,15606,15,6,19,Sven,Botman,Botman,579,2023-01-02T16:00:00Z,Nicolaj,January,6,False,Botman,18.0,25.0
 285,376,20,15606,1,5,20,Nick,Pope,Pope,219,2023-01-13T18:30:00Z,Nicolaj,January,15,True,Pope,7.0,
 286,429,20,15606,2,1,20,Matt,Doherty,Doherty,251,2023-01-13T18:30:00Z,Nicolaj,January,1,True,Doherty,20.0,22.0
 287,284,20,15606,3,1,20,Andrew,Robertson,Robertson,40,2023-01-13T18:30:00Z,Nicolaj,January,2,True,Robertson,1.0,22.0
 288,258,20,15606,4,1,20,Timothy,Castagne,Castagne,445,2023-01-13T18:30:00Z,Nicolaj,January,2,True,Castagne,10.0,21.0
-289,377,20,15606,5,6,20,Sven,Botman,Botman,578,2023-01-13T18:30:00Z,Nicolaj,January,12,True,Botman,18.0,25.0
+289,377,20,15606,5,6,20,Sven,Botman,Botman,579,2023-01-13T18:30:00Z,Nicolaj,January,12,True,Botman,18.0,25.0
 290,333,20,15606,6,19,20,Bruno,Borges Fernandes,Fernandes,8,2023-01-13T18:30:00Z,Nicolaj,January,25,True,Fernandes,17.0,
 291,283,20,15606,7,2,20,Mohamed,Salah,Salah,1,2023-01-13T18:30:00Z,Nicolaj,January,4,True,Salah,1.0,22.0
 292,19,20,15606,8,2,20,Gabriel,Martinelli Silva,Martinelli,83,2023-01-13T18:30:00Z,Nicolaj,January,5,True,Martinelli,19.0,26.0
 293,303,20,15606,9,19,20,Riyad,Mahrez,Mahrez,20,2023-01-13T18:30:00Z,Nicolaj,January,19,True,Mahrez,20.0,26.0
 294,680,20,15606,10,2,20,Cody,Gakpo,Gakpo,17,2023-01-13T18:30:00Z,Nicolaj,January,2,True,Gakpo,20.0,21.0
 295,356,20,15606,11,5,20,Callum,Wilson,Wilson,35,2023-01-13T18:30:00Z,Nicolaj,January,6,True,Wilson,9.0,25.0
-296,133,20,15606,12,10,20,Kepa,Arrizabalaga,Arrizabalaga,509,2023-01-13T18:30:00Z,Nicolaj,January,13,False,Arrizabalaga,17.0,
+296,133,20,15606,12,10,20,Kepa,Arrizabalaga,Arrizabalaga,510,2023-01-13T18:30:00Z,Nicolaj,January,13,False,Arrizabalaga,17.0,
 297,145,20,15606,13,6,20,Kai,Havertz,Havertz,22,2023-01-13T18:30:00Z,Nicolaj,January,10,False,Havertz,17.0,23.0
 298,11,20,15606,14,2,20,Eddie,Nketiah,Nketiah,51,2023-01-13T18:30:00Z,Nicolaj,January,3,False,Nketiah,17.0,22.0
-299,26,20,15606,15,6,20,William,Saliba,Saliba,545,2023-01-13T18:30:00Z,Nicolaj,January,13,False,Saliba,3.0,
+299,26,20,15606,15,6,20,William,Saliba,Saliba,546,2023-01-13T18:30:00Z,Nicolaj,January,13,False,Saliba,3.0,
 300,376,21,15606,1,6,21,Nick,Pope,Pope,219,2023-01-21T11:00:00Z,Nicolaj,January,21,True,Pope,7.0,
-301,377,21,15606,2,6,21,Sven,Botman,Botman,578,2023-01-21T11:00:00Z,Nicolaj,January,18,True,Botman,18.0,25.0
+301,377,21,15606,2,6,21,Sven,Botman,Botman,579,2023-01-21T11:00:00Z,Nicolaj,January,18,True,Botman,18.0,25.0
 302,358,21,15606,3,6,21,Dan,Burn,Burn,433,2023-01-21T11:00:00Z,Nicolaj,January,6,True,Burn,21.0,22.0
-303,26,21,15606,4,1,21,William,Saliba,Saliba,545,2023-01-21T11:00:00Z,Nicolaj,January,14,True,Saliba,3.0,
+303,26,21,15606,4,1,21,William,Saliba,Saliba,546,2023-01-21T11:00:00Z,Nicolaj,January,14,True,Saliba,3.0,
 304,283,21,15606,5,3,21,Mohamed,Salah,Salah,1,2023-01-21T11:00:00Z,Nicolaj,January,7,True,Salah,1.0,22.0
 305,333,21,15606,6,5,21,Bruno,Borges Fernandes,Fernandes,8,2023-01-21T11:00:00Z,Nicolaj,January,30,True,Fernandes,17.0,
 306,124,21,15606,7,10,21,Kaoru,Mitoma,Mitoma,306,2023-01-21T11:00:00Z,Nicolaj,January,10,True,Mitoma,21.0,
@@ -310,15 +310,15 @@
 308,19,21,15606,9,2,21,Gabriel,Martinelli Silva,Martinelli,83,2023-01-21T11:00:00Z,Nicolaj,January,7,True,Martinelli,19.0,26.0
 309,145,21,15606,10,2,21,Kai,Havertz,Havertz,22,2023-01-21T11:00:00Z,Nicolaj,January,12,True,Havertz,17.0,23.0
 310,356,21,15606,11,2,21,Callum,Wilson,Wilson,35,2023-01-21T11:00:00Z,Nicolaj,January,8,True,Wilson,9.0,25.0
-311,133,21,15606,12,9,21,Kepa,Arrizabalaga,Arrizabalaga,509,2023-01-21T11:00:00Z,Nicolaj,January,22,False,Arrizabalaga,17.0,
+311,133,21,15606,12,9,21,Kepa,Arrizabalaga,Arrizabalaga,510,2023-01-21T11:00:00Z,Nicolaj,January,22,False,Arrizabalaga,17.0,
 312,429,21,15606,13,0,21,Matt,Doherty,Doherty,251,2023-01-21T11:00:00Z,Nicolaj,January,1,False,Doherty,20.0,22.0
 313,284,21,15606,14,6,21,Andrew,Robertson,Robertson,40,2023-01-21T11:00:00Z,Nicolaj,January,8,False,Robertson,1.0,22.0
 314,11,21,15606,15,13,21,Eddie,Nketiah,Nketiah,51,2023-01-21T11:00:00Z,Nicolaj,January,16,False,Nketiah,17.0,22.0
-315,133,22,15606,1,10,22,Kepa,Arrizabalaga,Arrizabalaga,509,2023-02-03T18:30:00Z,Nicolaj,February,10,True,Arrizabalaga,17.0,
-316,26,22,15606,2,2,22,William,Saliba,Saliba,545,2023-02-03T18:30:00Z,Nicolaj,February,2,True,Saliba,3.0,
+315,133,22,15606,1,10,22,Kepa,Arrizabalaga,Arrizabalaga,510,2023-02-03T18:30:00Z,Nicolaj,February,10,True,Arrizabalaga,17.0,
+316,26,22,15606,2,2,22,William,Saliba,Saliba,546,2023-02-03T18:30:00Z,Nicolaj,February,2,True,Saliba,3.0,
 317,329,22,15606,3,1,22,Raphaël,Varane,Varane,245,2023-02-03T18:30:00Z,Nicolaj,February,1,True,Varane,22.0,24.0
 318,357,22,15606,4,2,22,Kieran,Trippier,Trippier,286,2023-02-03T18:30:00Z,Nicolaj,February,2,True,Trippier,22.0,
-319,377,22,15606,5,2,22,Sven,Botman,Botman,578,2023-02-03T18:30:00Z,Nicolaj,February,2,True,Botman,18.0,25.0
+319,377,22,15606,5,2,22,Sven,Botman,Botman,579,2023-02-03T18:30:00Z,Nicolaj,February,2,True,Botman,18.0,25.0
 320,333,22,15606,6,12,22,Bruno,Borges Fernandes,Fernandes,8,2023-02-03T18:30:00Z,Nicolaj,February,12,True,Fernandes,17.0,
 321,7,22,15606,7,2,22,Martin,Ødegaard,Ødegaard,57,2023-02-03T18:30:00Z,Nicolaj,February,2,True,Ødegaard,22.0,
 322,19,22,15606,8,1,22,Gabriel,Martinelli Silva,Martinelli,83,2023-02-03T18:30:00Z,Nicolaj,February,1,True,Martinelli,19.0,26.0
@@ -329,10 +329,10 @@
 327,356,22,15606,13,7,22,Callum,Wilson,Wilson,35,2023-02-03T18:30:00Z,Nicolaj,February,7,False,Wilson,9.0,25.0
 328,303,22,15606,14,1,22,Riyad,Mahrez,Mahrez,20,2023-02-03T18:30:00Z,Nicolaj,February,1,False,Mahrez,20.0,26.0
 329,475,22,15606,15,6,22,Conor,Coady,Coady,212,2023-02-03T18:30:00Z,Nicolaj,February,6,False,Coady,22.0,23.0
-330,133,23,15606,1,2,23,Kepa,Arrizabalaga,Arrizabalaga,509,2023-02-11T11:00:00Z,Nicolaj,February,12,True,Arrizabalaga,17.0,
+330,133,23,15606,1,2,23,Kepa,Arrizabalaga,Arrizabalaga,510,2023-02-11T11:00:00Z,Nicolaj,February,12,True,Arrizabalaga,17.0,
 331,357,23,15606,2,2,23,Kieran,Trippier,Trippier,286,2023-02-11T11:00:00Z,Nicolaj,February,4,True,Trippier,22.0,
 332,308,23,15606,3,3,23,Nathan,Aké,Aké,266,2023-02-11T11:00:00Z,Nicolaj,February,3,True,Aké,23.0,24.0
-333,26,23,15606,4,3,23,William,Saliba,Saliba,545,2023-02-11T11:00:00Z,Nicolaj,February,5,True,Saliba,3.0,
+333,26,23,15606,4,3,23,William,Saliba,Saliba,546,2023-02-11T11:00:00Z,Nicolaj,February,5,True,Saliba,3.0,
 334,7,23,15606,5,4,23,Martin,Ødegaard,Ødegaard,57,2023-02-11T11:00:00Z,Nicolaj,February,6,True,Ødegaard,22.0,
 335,333,23,15606,6,3,23,Bruno,Borges Fernandes,Fernandes,8,2023-02-11T11:00:00Z,Nicolaj,February,15,True,Fernandes,17.0,
 336,124,23,15606,7,2,23,Kaoru,Mitoma,Mitoma,306,2023-02-11T11:00:00Z,Nicolaj,February,13,True,Mitoma,21.0,
@@ -342,12 +342,12 @@
 340,319,23,15606,11,1,23,Julián,Álvarez,Álvarez,66,2023-02-11T11:00:00Z,Nicolaj,February,1,True,Álvarez,23.0,25.0
 341,376,23,15606,12,3,23,Nick,Pope,Pope,219,2023-02-11T11:00:00Z,Nicolaj,February,5,False,Pope,7.0,
 342,356,23,15606,13,0,23,Callum,Wilson,Wilson,35,2023-02-11T11:00:00Z,Nicolaj,February,7,False,Wilson,9.0,25.0
-343,377,23,15606,14,1,23,Sven,Botman,Botman,578,2023-02-11T11:00:00Z,Nicolaj,February,3,False,Botman,18.0,25.0
+343,377,23,15606,14,1,23,Sven,Botman,Botman,579,2023-02-11T11:00:00Z,Nicolaj,February,3,False,Botman,18.0,25.0
 344,329,23,15606,15,0,23,Raphaël,Varane,Varane,245,2023-02-11T11:00:00Z,Nicolaj,February,1,False,Varane,22.0,24.0
-345,133,24,15606,1,2,24,Kepa,Arrizabalaga,Arrizabalaga,509,2023-02-18T11:00:00Z,Nicolaj,February,14,True,Arrizabalaga,17.0,
+345,133,24,15606,1,2,24,Kepa,Arrizabalaga,Arrizabalaga,510,2023-02-18T11:00:00Z,Nicolaj,February,14,True,Arrizabalaga,17.0,
 346,357,24,15606,2,1,24,Kieran,Trippier,Trippier,286,2023-02-18T11:00:00Z,Nicolaj,February,5,True,Trippier,22.0,
 347,459,24,15606,3,2,24,Craig,Dawson,Dawson,232,2023-02-18T11:00:00Z,Nicolaj,February,2,True,Dawson,24.0,26.0
-348,26,24,15606,4,1,24,William,Saliba,Saliba,545,2023-02-18T11:00:00Z,Nicolaj,February,6,True,Saliba,3.0,
+348,26,24,15606,4,1,24,William,Saliba,Saliba,546,2023-02-18T11:00:00Z,Nicolaj,February,6,True,Saliba,3.0,
 349,7,24,15606,5,8,24,Martin,Ødegaard,Ødegaard,57,2023-02-18T11:00:00Z,Nicolaj,February,14,True,Ødegaard,22.0,
 350,333,24,15606,6,12,24,Bruno,Borges Fernandes,Fernandes,8,2023-02-18T11:00:00Z,Nicolaj,February,27,True,Fernandes,17.0,
 351,124,24,15606,7,2,24,Kaoru,Mitoma,Mitoma,306,2023-02-18T11:00:00Z,Nicolaj,February,15,True,Mitoma,21.0,
@@ -358,9 +358,9 @@
 356,376,24,15606,12,-3,24,Nick,Pope,Pope,219,2023-02-18T11:00:00Z,Nicolaj,February,2,False,Pope,7.0,
 357,303,24,15606,13,0,24,Riyad,Mahrez,Mahrez,20,2023-02-18T11:00:00Z,Nicolaj,February,15,False,Mahrez,20.0,26.0
 358,285,24,15606,14,12,24,Trent,Alexander-Arnold,Alexander-Arnold,29,2023-02-18T11:00:00Z,Nicolaj,February,12,False,Alexander-Ar,24.0,28.0
-359,377,24,15606,15,1,24,Sven,Botman,Botman,578,2023-02-18T11:00:00Z,Nicolaj,February,4,False,Botman,18.0,25.0
-360,133,25,15606,1,1,25,Kepa,Arrizabalaga,Arrizabalaga,509,2023-02-24T18:30:00Z,Nicolaj,February,15,True,Arrizabalaga,17.0,
-361,26,25,15606,2,12,25,William,Saliba,Saliba,545,2023-02-24T18:30:00Z,Nicolaj,February,18,True,Saliba,3.0,
+359,377,24,15606,15,1,24,Sven,Botman,Botman,579,2023-02-18T11:00:00Z,Nicolaj,February,4,False,Botman,18.0,25.0
+360,133,25,15606,1,1,25,Kepa,Arrizabalaga,Arrizabalaga,510,2023-02-24T18:30:00Z,Nicolaj,February,15,True,Arrizabalaga,17.0,
+361,26,25,15606,2,12,25,William,Saliba,Saliba,546,2023-02-24T18:30:00Z,Nicolaj,February,18,True,Saliba,3.0,
 362,459,25,15606,3,3,25,Craig,Dawson,Dawson,232,2023-02-24T18:30:00Z,Nicolaj,February,5,True,Dawson,24.0,26.0
 363,285,25,15606,4,13,25,Trent,Alexander-Arnold,Alexander-Arnold,29,2023-02-24T18:30:00Z,Nicolaj,February,25,True,Alexander-Ar,24.0,28.0
 364,280,25,15606,5,24,25,Virgil,van Dijk,Van Dijk,54,2023-02-24T18:30:00Z,Nicolaj,February,24,True,Van Dijk,25.0,26.0
@@ -374,8 +374,8 @@
 372,124,25,15606,13,0,25,Kaoru,Mitoma,Mitoma,306,2023-02-24T18:30:00Z,Nicolaj,February,15,False,Mitoma,21.0,
 373,357,25,15606,14,0,25,Kieran,Trippier,Trippier,286,2023-02-24T18:30:00Z,Nicolaj,February,5,False,Trippier,22.0,
 374,333,25,15606,15,0,25,Bruno,Borges Fernandes,Fernandes,8,2023-02-24T18:30:00Z,Nicolaj,February,27,False,Fernandes,17.0,
-375,133,26,15606,1,6,26,Kepa,Arrizabalaga,Arrizabalaga,509,2023-03-04T11:00:00Z,Nicolaj,March,6,True,Arrizabalaga,17.0,
-376,26,26,15606,2,1,26,William,Saliba,Saliba,545,2023-03-04T11:00:00Z,Nicolaj,March,1,True,Saliba,3.0,
+375,133,26,15606,1,6,26,Kepa,Arrizabalaga,Arrizabalaga,510,2023-03-04T11:00:00Z,Nicolaj,March,6,True,Arrizabalaga,17.0,
+376,26,26,15606,2,1,26,William,Saliba,Saliba,546,2023-03-04T11:00:00Z,Nicolaj,March,1,True,Saliba,3.0,
 377,85,26,15606,3,1,26,Rico,Henry,Henry,419,2023-03-04T11:00:00Z,Nicolaj,March,1,True,Henry,26.0,29.0
 378,357,26,15606,4,1,26,Kieran,Trippier,Trippier,286,2023-03-04T11:00:00Z,Nicolaj,March,1,True,Trippier,22.0,
 379,7,26,15606,5,2,26,Martin,Ødegaard,Ødegaard,57,2023-03-04T11:00:00Z,Nicolaj,March,2,True,Ødegaard,22.0,
@@ -400,14 +400,14 @@
 398,333,27,15606,9,3,27,Bruno,Borges Fernandes,Fernandes,8,2023-03-11T11:00:00Z,Nicolaj,March,5,True,Fernandes,17.0,
 399,690,27,15606,10,1,27,João,Félix Sequeira,João Félix,28,2023-03-11T11:00:00Z,Nicolaj,March,3,True,João Félix,23.0,
 400,598,27,15606,11,3,27,Evan,Ferguson,Ferguson,338,2023-03-11T11:00:00Z,Nicolaj,March,3,True,Ferguson,27.0,28.0
-401,133,27,15606,12,3,27,Kepa,Arrizabalaga,Arrizabalaga,509,2023-03-11T11:00:00Z,Nicolaj,March,9,False,Arrizabalaga,17.0,
+401,133,27,15606,12,3,27,Kepa,Arrizabalaga,Arrizabalaga,510,2023-03-11T11:00:00Z,Nicolaj,March,9,False,Arrizabalaga,17.0,
 402,356,27,15606,13,1,27,Callum,Wilson,Wilson,35,2023-03-11T11:00:00Z,Nicolaj,March,1,False,Wilson,27.0,
 403,285,27,15606,14,2,27,Trent,Alexander-Arnold,Alexander-Arnold,29,2023-03-11T11:00:00Z,Nicolaj,March,8,False,Alexander-Ar,24.0,28.0
-404,26,27,15606,15,7,27,William,Saliba,Saliba,545,2023-03-11T11:00:00Z,Nicolaj,March,8,False,Saliba,3.0,
+404,26,27,15606,15,7,27,William,Saliba,Saliba,546,2023-03-11T11:00:00Z,Nicolaj,March,8,False,Saliba,3.0,
 405,376,28,15606,1,2,28,Nick,Pope,Pope,219,2023-03-17T18:30:00Z,Nicolaj,March,6,True,Pope,7.0,
 406,85,28,15606,2,2,28,Rico,Henry,Henry,419,2023-03-17T18:30:00Z,Nicolaj,March,11,True,Henry,26.0,29.0
 407,357,28,15606,3,2,28,Kieran,Trippier,Trippier,286,2023-03-17T18:30:00Z,Nicolaj,March,8,True,Trippier,22.0,
-408,26,28,15606,4,0,28,William,Saliba,Saliba,545,2023-03-17T18:30:00Z,Nicolaj,March,8,True,Saliba,3.0,
+408,26,28,15606,4,0,28,William,Saliba,Saliba,546,2023-03-17T18:30:00Z,Nicolaj,March,8,True,Saliba,3.0,
 409,139,28,15606,5,1,28,Ben,Chilwell,Chilwell,96,2023-03-17T18:30:00Z,Nicolaj,March,1,True,Chilwell,28.0,
 410,160,28,15606,6,2,28,Wilfried,Zaha,Zaha,42,2023-03-17T18:30:00Z,Nicolaj,March,6,True,Zaha,27.0,
 411,7,28,15606,7,2,28,Martin,Ødegaard,Ødegaard,57,2023-03-17T18:30:00Z,Nicolaj,March,11,True,Ødegaard,22.0,
@@ -415,11 +415,11 @@
 413,28,28,15606,9,1,28,Gabriel,Fernando de Jesus,Jesus,21,2023-03-17T18:30:00Z,Nicolaj,March,1,True,Jesus,28.0,
 414,690,28,15606,10,8,28,João,Félix Sequeira,João Félix,28,2023-03-17T18:30:00Z,Nicolaj,March,11,True,João Félix,23.0,
 415,356,28,15606,11,0,28,Callum,Wilson,Wilson,35,2023-03-17T18:30:00Z,Nicolaj,March,1,True,Wilson,27.0,
-416,133,28,15606,12,1,28,Kepa,Arrizabalaga,Arrizabalaga,509,2023-03-17T18:30:00Z,Nicolaj,March,10,False,Arrizabalaga,17.0,
+416,133,28,15606,12,1,28,Kepa,Arrizabalaga,Arrizabalaga,510,2023-03-17T18:30:00Z,Nicolaj,March,10,False,Arrizabalaga,17.0,
 417,333,28,15606,13,0,28,Bruno,Borges Fernandes,Fernandes,8,2023-03-17T18:30:00Z,Nicolaj,March,5,False,Fernandes,17.0,
 418,124,28,15606,14,0,28,Kaoru,Mitoma,Mitoma,306,2023-03-17T18:30:00Z,Nicolaj,March,25,False,Mitoma,21.0,
 419,332,28,15606,15,0,28,Luke,Shaw,Shaw,268,2023-03-17T18:30:00Z,Nicolaj,March,4,False,Shaw,26.0,
-420,133,29,15606,1,8,29,Kepa,Arrizabalaga,Arrizabalaga,509,2023-04-01T10:00:00Z,Nicolaj,April,8,True,Arrizabalaga,17.0,
+420,133,29,15606,1,8,29,Kepa,Arrizabalaga,Arrizabalaga,510,2023-04-01T10:00:00Z,Nicolaj,April,8,True,Arrizabalaga,17.0,
 421,106,29,15606,2,7,29,Lewis,Dunk,Dunk,432,2023-04-01T10:00:00Z,Nicolaj,April,7,True,Dunk,29.0,
 422,357,29,15606,3,12,29,Kieran,Trippier,Trippier,286,2023-04-01T10:00:00Z,Nicolaj,April,12,True,Trippier,22.0,
 423,139,29,15606,4,9,29,Ben,Chilwell,Chilwell,96,2023-04-01T10:00:00Z,Nicolaj,April,9,True,Chilwell,28.0,
@@ -433,7 +433,7 @@
 431,376,29,15606,12,6,29,Nick,Pope,Pope,219,2023-04-01T10:00:00Z,Nicolaj,April,6,False,Pope,7.0,
 432,28,29,15606,13,12,29,Gabriel,Fernando de Jesus,Jesus,21,2023-04-01T10:00:00Z,Nicolaj,April,12,False,Jesus,28.0,
 433,160,29,15606,14,1,29,Wilfried,Zaha,Zaha,42,2023-04-01T10:00:00Z,Nicolaj,April,1,False,Zaha,27.0,
-434,26,29,15606,15,0,29,William,Saliba,Saliba,545,2023-04-01T10:00:00Z,Nicolaj,April,0,False,Saliba,3.0,
+434,26,29,15606,15,0,29,William,Saliba,Saliba,546,2023-04-01T10:00:00Z,Nicolaj,April,0,False,Saliba,3.0,
 435,281,1,24788,1,1,1,Alisson,Ramses Becker,Alisson,112,2022-08-05T17:30:00Z,Jesus,August,1,True,Alisson,1.0,23.0
 436,285,1,24788,2,1,1,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-08-05T17:30:00Z,Jesus,August,1,True,Alexander-Ar,1.0,23.0
 437,299,1,24788,3,6,1,Kyle,Walker,Walker,237,2022-08-05T17:30:00Z,Jesus,August,6,True,Walker,1.0,
@@ -445,7 +445,7 @@
 443,227,1,24788,9,5,1,Patrick,Bamford,Bamford,36,2022-08-05T17:30:00Z,Jesus,August,5,True,Bamford,1.0,6.0
 444,28,1,24788,10,2,1,Gabriel,Fernando de Jesus,Jesus,21,2022-08-05T17:30:00Z,Jesus,August,2,True,Jesus,1.0,15.0
 445,40,1,24788,11,1,1,Ollie,Watkins,Watkins,32,2022-08-05T17:30:00Z,Jesus,August,1,True,Watkins,1.0,11.0
-446,398,1,24788,12,3,1,Dean,Henderson,Henderson,590,2022-08-05T17:30:00Z,Jesus,August,3,False,Henderson,1.0,12.0
+446,398,1,24788,12,3,1,Dean,Henderson,Henderson,591,2022-08-05T17:30:00Z,Jesus,August,3,False,Henderson,1.0,12.0
 447,407,1,24788,13,9,1,James,Ward-Prowse,Ward-Prowse,55,2022-08-05T17:30:00Z,Jesus,August,9,False,Ward-Prowse,1.0,9.0
 448,457,1,24788,14,1,1,Aaron,Cresswell,Cresswell,222,2022-08-05T17:30:00Z,Jesus,August,1,False,Cresswell,1.0,16.0
 449,114,1,24788,15,1,1,Tariq,Lamptey,Lamptey,446,2022-08-05T17:30:00Z,Jesus,August,1,False,Lamptey,1.0,8.0
@@ -460,7 +460,7 @@
 458,407,2,24788,9,2,2,James,Ward-Prowse,Ward-Prowse,55,2022-08-13T10:00:00Z,Jesus,August,11,True,Ward-Prowse,1.0,9.0
 459,227,2,24788,10,1,2,Patrick,Bamford,Bamford,36,2022-08-13T10:00:00Z,Jesus,August,6,True,Bamford,1.0,6.0
 460,28,2,24788,11,19,2,Gabriel,Fernando de Jesus,Jesus,21,2022-08-13T10:00:00Z,Jesus,August,21,True,Jesus,1.0,15.0
-461,398,2,24788,12,14,2,Dean,Henderson,Henderson,590,2022-08-13T10:00:00Z,Jesus,August,17,False,Henderson,1.0,12.0
+461,398,2,24788,12,14,2,Dean,Henderson,Henderson,591,2022-08-13T10:00:00Z,Jesus,August,17,False,Henderson,1.0,12.0
 462,40,2,24788,13,11,2,Ollie,Watkins,Watkins,32,2022-08-13T10:00:00Z,Jesus,August,12,False,Watkins,1.0,11.0
 463,527,2,24788,14,6,2,Jesse,Lingard,Lingard,110,2022-08-13T10:00:00Z,Jesus,August,8,False,Lingard,1.0,6.0
 464,114,2,24788,15,1,2,Tariq,Lamptey,Lamptey,446,2022-08-13T10:00:00Z,Jesus,August,2,False,Lamptey,1.0,8.0
@@ -475,11 +475,11 @@
 473,527,3,24788,9,3,3,Jesse,Lingard,Lingard,110,2022-08-20T10:00:00Z,Jesus,August,11,True,Lingard,1.0,6.0
 474,40,3,24788,10,6,3,Ollie,Watkins,Watkins,32,2022-08-20T10:00:00Z,Jesus,August,18,True,Watkins,1.0,11.0
 475,28,3,24788,11,4,3,Gabriel,Fernando de Jesus,Jesus,21,2022-08-20T10:00:00Z,Jesus,August,25,True,Jesus,1.0,15.0
-476,398,3,24788,12,4,3,Dean,Henderson,Henderson,590,2022-08-20T10:00:00Z,Jesus,August,21,False,Henderson,1.0,12.0
+476,398,3,24788,12,4,3,Dean,Henderson,Henderson,591,2022-08-20T10:00:00Z,Jesus,August,21,False,Henderson,1.0,12.0
 477,114,3,24788,13,0,3,Tariq,Lamptey,Lamptey,446,2022-08-20T10:00:00Z,Jesus,August,2,False,Lamptey,1.0,8.0
 478,227,3,24788,14,0,3,Patrick,Bamford,Bamford,36,2022-08-20T10:00:00Z,Jesus,August,6,False,Bamford,1.0,6.0
 479,43,3,24788,15,1,3,Matty,Cash,Cash,208,2022-08-20T10:00:00Z,Jesus,August,4,False,Cash,1.0,10.0
-480,398,4,24788,1,9,4,Dean,Henderson,Henderson,590,2022-08-27T10:00:00Z,Jesus,August,30,True,Henderson,1.0,12.0
+480,398,4,24788,1,9,4,Dean,Henderson,Henderson,591,2022-08-27T10:00:00Z,Jesus,August,30,True,Henderson,1.0,12.0
 481,285,4,24788,2,17,4,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-08-27T10:00:00Z,Jesus,August,21,True,Alexander-Ar,1.0,23.0
 482,299,4,24788,3,1,4,Kyle,Walker,Walker,237,2022-08-27T10:00:00Z,Jesus,August,14,True,Walker,1.0,
 483,43,4,24788,4,1,4,Matty,Cash,Cash,208,2022-08-27T10:00:00Z,Jesus,August,5,True,Cash,1.0,10.0
@@ -494,7 +494,7 @@
 492,446,4,24788,13,6,4,Dejan,Kulusevski,Kulusevski,23,2022-08-27T10:00:00Z,Jesus,August,24,False,Kulusevski,1.0,11.0
 493,407,4,24788,14,2,4,James,Ward-Prowse,Ward-Prowse,55,2022-08-27T10:00:00Z,Jesus,August,20,False,Ward-Prowse,1.0,9.0
 494,227,4,24788,15,0,4,Patrick,Bamford,Bamford,36,2022-08-27T10:00:00Z,Jesus,August,6,False,Bamford,1.0,6.0
-495,398,5,24788,1,0,5,Dean,Henderson,Henderson,590,2022-08-30T17:00:00Z,Jesus,August,30,True,Henderson,1.0,12.0
+495,398,5,24788,1,0,5,Dean,Henderson,Henderson,591,2022-08-30T17:00:00Z,Jesus,August,30,True,Henderson,1.0,12.0
 496,285,5,24788,2,2,5,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-08-30T17:00:00Z,Jesus,August,23,True,Alexander-Ar,1.0,23.0
 497,299,5,24788,3,6,5,Kyle,Walker,Walker,237,2022-08-30T17:00:00Z,Jesus,August,20,True,Walker,1.0,
 498,43,5,24788,4,1,5,Matty,Cash,Cash,208,2022-08-30T17:00:00Z,Jesus,August,6,True,Cash,1.0,10.0
@@ -520,7 +520,7 @@
 518,519,6,24788,9,4,6,Christian,Eriksen,Eriksen,69,2022-09-03T10:00:00Z,Jesus,September,4,True,Eriksen,6.0,7.0
 519,210,6,24788,10,5,6,Aleksandar,Mitrović,Mitrović,65,2022-09-03T10:00:00Z,Jesus,September,5,True,Mitrović,6.0,7.0
 520,28,6,24788,11,1,6,Gabriel,Fernando de Jesus,Jesus,21,2022-09-03T10:00:00Z,Jesus,September,1,True,Jesus,1.0,15.0
-521,398,6,24788,12,1,6,Dean,Henderson,Henderson,590,2022-09-03T10:00:00Z,Jesus,September,1,False,Henderson,1.0,12.0
+521,398,6,24788,12,1,6,Dean,Henderson,Henderson,591,2022-09-03T10:00:00Z,Jesus,September,1,False,Henderson,1.0,12.0
 522,40,6,24788,13,2,6,Ollie,Watkins,Watkins,32,2022-09-03T10:00:00Z,Jesus,September,2,False,Watkins,1.0,11.0
 523,457,6,24788,14,0,6,Aaron,Cresswell,Cresswell,222,2022-09-03T10:00:00Z,Jesus,September,0,False,Cresswell,1.0,16.0
 524,43,6,24788,15,0,6,Matty,Cash,Cash,208,2022-09-03T10:00:00Z,Jesus,September,0,False,Cash,1.0,10.0
@@ -535,13 +535,13 @@
 533,428,7,24788,9,0,7,Son,Heung-min,Son,2,2022-09-10T10:00:00Z,Jesus,September,0,True,Son,7.0,14.0
 534,227,7,24788,10,0,7,Patrick,Bamford,Bamford,36,2022-09-10T10:00:00Z,Jesus,September,0,True,Bamford,7.0,9.0
 535,28,7,24788,11,0,7,Gabriel,Fernando de Jesus,Jesus,21,2022-09-10T10:00:00Z,Jesus,September,1,True,Jesus,1.0,15.0
-536,398,7,24788,12,0,7,Dean,Henderson,Henderson,590,2022-09-10T10:00:00Z,Jesus,September,1,False,Henderson,1.0,12.0
+536,398,7,24788,12,0,7,Dean,Henderson,Henderson,591,2022-09-10T10:00:00Z,Jesus,September,1,False,Henderson,1.0,12.0
 537,40,7,24788,13,0,7,Ollie,Watkins,Watkins,32,2022-09-10T10:00:00Z,Jesus,September,2,False,Watkins,1.0,11.0
 538,457,7,24788,14,0,7,Aaron,Cresswell,Cresswell,222,2022-09-10T10:00:00Z,Jesus,September,0,False,Cresswell,1.0,16.0
 539,43,7,24788,15,0,7,Matty,Cash,Cash,208,2022-09-10T10:00:00Z,Jesus,September,0,False,Cash,1.0,10.0
-540,398,8,24788,1,2,8,Dean,Henderson,Henderson,590,2022-09-16T17:30:00Z,Jesus,September,3,True,Henderson,1.0,12.0
+540,398,8,24788,1,2,8,Dean,Henderson,Henderson,591,2022-09-16T17:30:00Z,Jesus,September,3,True,Henderson,1.0,12.0
 541,43,8,24788,2,0,8,Matty,Cash,Cash,208,2022-09-16T17:30:00Z,Jesus,September,0,True,Cash,1.0,10.0
-542,516,8,24788,3,-3,8,Nathan,Collins,Collins,602,2022-09-16T17:30:00Z,Jesus,September,-3,True,Collins,8.0,9.0
+542,516,8,24788,3,-3,8,Nathan,Collins,Collins,603,2022-09-16T17:30:00Z,Jesus,September,-3,True,Collins,8.0,9.0
 543,457,8,24788,4,2,8,Aaron,Cresswell,Cresswell,222,2022-09-16T17:30:00Z,Jesus,September,2,True,Cresswell,1.0,16.0
 544,446,8,24788,5,5,8,Dejan,Kulusevski,Kulusevski,23,2022-09-16T17:30:00Z,Jesus,September,6,True,Kulusevski,1.0,11.0
 545,301,8,24788,6,10,8,Kevin,De Bruyne,De Bruyne,3,2022-09-16T17:30:00Z,Jesus,September,17,True,De Bruyne,1.0,
@@ -554,7 +554,7 @@
 552,299,8,24788,13,0,8,Kyle,Walker,Walker,237,2022-09-16T17:30:00Z,Jesus,September,2,False,Walker,1.0,
 553,227,8,24788,14,0,8,Patrick,Bamford,Bamford,36,2022-09-16T17:30:00Z,Jesus,September,0,False,Bamford,7.0,9.0
 554,285,8,24788,15,0,8,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-09-16T17:30:00Z,Jesus,September,1,False,Alexander-Ar,1.0,23.0
-555,398,9,24788,1,1,9,Dean,Henderson,Henderson,590,2022-10-01T10:00:00Z,Jesus,October,1,True,Henderson,1.0,12.0
+555,398,9,24788,1,1,9,Dean,Henderson,Henderson,591,2022-10-01T10:00:00Z,Jesus,October,1,True,Henderson,1.0,12.0
 556,285,9,24788,2,0,9,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-10-01T10:00:00Z,Jesus,October,0,True,Alexander-Ar,1.0,23.0
 557,299,9,24788,3,1,9,Kyle,Walker,Walker,237,2022-10-01T10:00:00Z,Jesus,October,1,True,Walker,1.0,
 558,457,9,24788,4,5,9,Aaron,Cresswell,Cresswell,222,2022-10-01T10:00:00Z,Jesus,October,5,True,Cresswell,1.0,16.0
@@ -569,7 +569,7 @@
 567,446,9,24788,13,0,9,Dejan,Kulusevski,Kulusevski,23,2022-10-01T10:00:00Z,Jesus,October,0,False,Kulusevski,1.0,11.0
 568,342,9,24788,14,-2,9,Diogo,Dalot Teixeira,Dalot,464,2022-10-01T10:00:00Z,Jesus,October,-2,False,Dalot,9.0,
 569,43,9,24788,15,0,9,Matty,Cash,Cash,208,2022-10-01T10:00:00Z,Jesus,October,0,False,Cash,1.0,10.0
-570,398,10,24788,1,2,10,Dean,Henderson,Henderson,590,2022-10-08T12:30:00Z,Jesus,October,3,True,Henderson,1.0,12.0
+570,398,10,24788,1,2,10,Dean,Henderson,Henderson,591,2022-10-08T12:30:00Z,Jesus,October,3,True,Henderson,1.0,12.0
 571,285,10,24788,2,0,10,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-10-08T12:30:00Z,Jesus,October,0,True,Alexander-Ar,1.0,23.0
 572,457,10,24788,3,2,10,Aaron,Cresswell,Cresswell,222,2022-10-08T12:30:00Z,Jesus,October,7,True,Cresswell,1.0,16.0
 573,342,10,24788,4,2,10,Diogo,Dalot Teixeira,Dalot,464,2022-10-08T12:30:00Z,Jesus,October,0,True,Dalot,9.0,
@@ -584,7 +584,7 @@
 582,139,10,24788,13,0,10,Ben,Chilwell,Chilwell,96,2022-10-08T12:30:00Z,Jesus,October,0,False,Chilwell,10.0,14.0
 583,446,10,24788,14,0,10,Dejan,Kulusevski,Kulusevski,23,2022-10-08T12:30:00Z,Jesus,October,0,False,Kulusevski,1.0,11.0
 584,299,10,24788,15,0,10,Kyle,Walker,Walker,237,2022-10-08T12:30:00Z,Jesus,October,1,False,Walker,1.0,
-585,398,11,24788,1,2,11,Dean,Henderson,Henderson,590,2022-10-14T17:30:00Z,Jesus,October,5,True,Henderson,1.0,12.0
+585,398,11,24788,1,2,11,Dean,Henderson,Henderson,591,2022-10-14T17:30:00Z,Jesus,October,5,True,Henderson,1.0,12.0
 586,342,11,24788,2,9,11,Diogo,Dalot Teixeira,Dalot,464,2022-10-14T17:30:00Z,Jesus,October,9,True,Dalot,9.0,
 587,457,11,24788,3,3,11,Aaron,Cresswell,Cresswell,222,2022-10-14T17:30:00Z,Jesus,October,10,True,Cresswell,1.0,16.0
 588,285,11,24788,4,1,11,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-10-14T17:30:00Z,Jesus,October,1,True,Alexander-Ar,1.0,23.0
@@ -630,7 +630,7 @@
 628,374,13,24788,14,2,13,Bruno,Guimarães Rodriguez Moura,Bruno Guimarães,95,2022-10-22T10:00:00Z,Jesus,October,11,False,Bruno Guimar,11.0,16.0
 629,299,13,24788,15,0,13,Kyle,Walker,Walker,237,2022-10-22T10:00:00Z,Jesus,October,1,False,Walker,1.0,
 630,281,14,24788,1,2,14,Alisson,Ramses Becker,Alisson,112,2022-10-29T10:00:00Z,Jesus,October,39,True,Alisson,1.0,23.0
-631,526,14,24788,2,11,14,Ben,Mee,Mee,609,2022-10-29T10:00:00Z,Jesus,October,11,True,Mee,14.0,
+631,526,14,24788,2,11,14,Ben,Mee,Mee,610,2022-10-29T10:00:00Z,Jesus,October,11,True,Mee,14.0,
 632,285,14,24788,3,2,14,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-10-29T10:00:00Z,Jesus,October,12,True,Alexander-Ar,1.0,23.0
 633,342,14,24788,4,9,14,Diogo,Dalot Teixeira,Dalot,464,2022-10-29T10:00:00Z,Jesus,October,26,True,Dalot,9.0,
 634,374,14,24788,5,3,14,Bruno,Guimarães Rodriguez Moura,Bruno Guimarães,95,2022-10-29T10:00:00Z,Jesus,October,14,True,Bruno Guimar,11.0,16.0
@@ -645,7 +645,7 @@
 643,457,14,24788,14,2,14,Aaron,Cresswell,Cresswell,222,2022-10-29T10:00:00Z,Jesus,October,22,False,Cresswell,1.0,16.0
 644,299,14,24788,15,0,14,Kyle,Walker,Walker,237,2022-10-29T10:00:00Z,Jesus,October,1,False,Walker,1.0,
 645,478,15,24788,1,2,15,José,Malheiro de Sá,Sá,210,2022-11-05T13:30:00Z,Jesus,November,2,True,Sá,12.0,
-646,526,15,24788,2,1,15,Ben,Mee,Mee,609,2022-11-05T13:30:00Z,Jesus,November,1,True,Mee,14.0,
+646,526,15,24788,2,1,15,Ben,Mee,Mee,610,2022-11-05T13:30:00Z,Jesus,November,1,True,Mee,14.0,
 647,457,15,24788,3,1,15,Aaron,Cresswell,Cresswell,222,2022-11-05T13:30:00Z,Jesus,November,1,True,Cresswell,1.0,16.0
 648,342,15,24788,4,0,15,Diogo,Dalot Teixeira,Dalot,464,2022-11-05T13:30:00Z,Jesus,November,0,True,Dalot,9.0,
 649,374,15,24788,5,7,15,Bruno,Guimarães Rodriguez Moura,Bruno Guimarães,95,2022-11-05T13:30:00Z,Jesus,November,7,True,Bruno Guimar,11.0,16.0
@@ -660,8 +660,8 @@
 658,285,15,24788,14,2,15,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-11-05T13:30:00Z,Jesus,November,2,False,Alexander-Ar,1.0,23.0
 659,299,15,24788,15,0,15,Kyle,Walker,Walker,237,2022-11-05T13:30:00Z,Jesus,November,0,False,Walker,1.0,
 660,478,16,24788,1,1,16,José,Malheiro de Sá,Sá,210,2022-11-12T11:00:00Z,Jesus,November,3,True,Sá,12.0,
-661,526,16,24788,2,5,16,Ben,Mee,Mee,609,2022-11-12T11:00:00Z,Jesus,November,6,True,Mee,14.0,
-662,533,16,24788,3,2,16,Lisandro,Martínez,Martínez,610,2022-11-12T11:00:00Z,Jesus,November,2,True,Martínez,16.0,17.0
+661,526,16,24788,2,5,16,Ben,Mee,Mee,610,2022-11-12T11:00:00Z,Jesus,November,6,True,Mee,14.0,
+662,533,16,24788,3,2,16,Lisandro,Martínez,Martínez,611,2022-11-12T11:00:00Z,Jesus,November,2,True,Martínez,16.0,17.0
 663,285,16,24788,4,2,16,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-11-12T11:00:00Z,Jesus,November,4,True,Alexander-Ar,1.0,23.0
 664,259,16,24788,5,-1,16,Youri,Tielemans,Tielemans,58,2022-11-12T11:00:00Z,Jesus,November,-1,True,Tielemans,16.0,18.0
 665,301,16,24788,6,2,16,Kevin,De Bruyne,De Bruyne,3,2022-11-12T11:00:00Z,Jesus,November,9,True,De Bruyne,1.0,
@@ -676,7 +676,7 @@
 674,299,16,24788,15,0,16,Kyle,Walker,Walker,237,2022-11-12T11:00:00Z,Jesus,November,0,False,Walker,1.0,
 675,281,17,24788,1,3,17,Alisson,Ramses Becker,Alisson,112,2022-12-26T11:00:00Z,Jesus,December,3,True,Alisson,1.0,23.0
 676,285,17,24788,2,2,17,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-12-26T11:00:00Z,Jesus,December,2,True,Alexander-Ar,1.0,23.0
-677,526,17,24788,3,1,17,Ben,Mee,Mee,609,2022-12-26T11:00:00Z,Jesus,December,1,True,Mee,14.0,
+677,526,17,24788,3,1,17,Ben,Mee,Mee,610,2022-12-26T11:00:00Z,Jesus,December,1,True,Mee,14.0,
 678,332,17,24788,4,8,17,Luke,Shaw,Shaw,268,2022-12-26T11:00:00Z,Jesus,December,8,True,Shaw,17.0,22.0
 679,225,17,24788,5,2,17,Rodrigo,Moreno,Rodrigo,89,2022-12-26T11:00:00Z,Jesus,December,2,True,Rodrigo,15.0,22.0
 680,301,17,24788,6,2,17,Kevin,De Bruyne,De Bruyne,3,2022-12-26T11:00:00Z,Jesus,December,2,True,De Bruyne,1.0,
@@ -691,7 +691,7 @@
 689,342,17,24788,15,0,17,Diogo,Dalot Teixeira,Dalot,464,2022-12-26T11:00:00Z,Jesus,December,0,False,Dalot,9.0,
 690,281,18,24788,1,2,18,Alisson,Ramses Becker,Alisson,112,2022-12-30T18:15:00Z,Jesus,December,5,True,Alisson,1.0,23.0
 691,285,18,24788,2,8,18,Trent,Alexander-Arnold,Alexander-Arnold,29,2022-12-30T18:15:00Z,Jesus,December,10,True,Alexander-Ar,1.0,23.0
-692,526,18,24788,3,6,18,Ben,Mee,Mee,609,2022-12-30T18:15:00Z,Jesus,December,7,True,Mee,14.0,
+692,526,18,24788,3,6,18,Ben,Mee,Mee,610,2022-12-30T18:15:00Z,Jesus,December,7,True,Mee,14.0,
 693,332,18,24788,4,9,18,Luke,Shaw,Shaw,268,2022-12-30T18:15:00Z,Jesus,December,17,True,Shaw,17.0,22.0
 694,301,18,24788,5,1,18,Kevin,De Bruyne,De Bruyne,3,2022-12-30T18:15:00Z,Jesus,December,3,True,De Bruyne,1.0,
 695,3,18,24788,6,2,18,Granit,Xhaka,Xhaka,258,2022-12-30T18:15:00Z,Jesus,December,2,True,Xhaka,18.0,22.0
@@ -717,12 +717,12 @@
 715,318,19,24788,11,2,19,Erling,Haaland,Haaland,5,2023-01-02T16:00:00Z,Jesus,January,2,True,Haaland,15.0,22.0
 716,281,19,24788,12,2,19,Alisson,Ramses Becker,Alisson,112,2023-01-02T16:00:00Z,Jesus,January,2,False,Alisson,1.0,23.0
 717,169,19,24788,13,2,19,Eberechi,Eze,Eze,167,2023-01-02T16:00:00Z,Jesus,January,2,False,Eze,13.0,20.0
-718,526,19,24788,14,2,19,Ben,Mee,Mee,609,2023-01-02T16:00:00Z,Jesus,January,2,False,Mee,14.0,
+718,526,19,24788,14,2,19,Ben,Mee,Mee,610,2023-01-02T16:00:00Z,Jesus,January,2,False,Mee,14.0,
 719,342,19,24788,15,1,19,Diogo,Dalot Teixeira,Dalot,464,2023-01-02T16:00:00Z,Jesus,January,1,False,Dalot,9.0,
 720,478,20,24788,1,10,20,José,Malheiro de Sá,Sá,210,2023-01-13T18:30:00Z,Jesus,January,12,True,Sá,12.0,
 721,285,20,24788,2,0,20,Trent,Alexander-Arnold,Alexander-Arnold,29,2023-01-13T18:30:00Z,Jesus,January,5,True,Alexander-Ar,1.0,23.0
 722,299,20,24788,3,2,20,Kyle,Walker,Walker,237,2023-01-13T18:30:00Z,Jesus,January,3,True,Walker,1.0,
-723,526,20,24788,4,7,20,Ben,Mee,Mee,609,2023-01-13T18:30:00Z,Jesus,January,9,True,Mee,14.0,
+723,526,20,24788,4,7,20,Ben,Mee,Mee,610,2023-01-13T18:30:00Z,Jesus,January,9,True,Mee,14.0,
 724,332,20,24788,5,4,20,Luke,Shaw,Shaw,268,2023-01-13T18:30:00Z,Jesus,January,19,True,Shaw,17.0,22.0
 725,301,20,24788,6,5,20,Kevin,De Bruyne,De Bruyne,3,2023-01-13T18:30:00Z,Jesus,January,8,True,De Bruyne,1.0,
 726,3,20,24788,7,3,20,Granit,Xhaka,Xhaka,258,2023-01-13T18:30:00Z,Jesus,January,5,True,Xhaka,18.0,22.0
@@ -736,7 +736,7 @@
 734,342,20,24788,15,0,20,Diogo,Dalot Teixeira,Dalot,464,2023-01-13T18:30:00Z,Jesus,January,1,False,Dalot,9.0,
 735,281,21,24788,1,9,21,Alisson,Ramses Becker,Alisson,112,2023-01-21T11:00:00Z,Jesus,January,13,True,Alisson,1.0,23.0
 736,285,21,24788,2,1,21,Trent,Alexander-Arnold,Alexander-Arnold,29,2023-01-21T11:00:00Z,Jesus,January,6,True,Alexander-Ar,1.0,23.0
-737,526,21,24788,3,6,21,Ben,Mee,Mee,609,2023-01-21T11:00:00Z,Jesus,January,15,True,Mee,14.0,
+737,526,21,24788,3,6,21,Ben,Mee,Mee,610,2023-01-21T11:00:00Z,Jesus,January,15,True,Mee,14.0,
 738,332,21,24788,4,0,21,Luke,Shaw,Shaw,268,2023-01-21T11:00:00Z,Jesus,January,19,True,Shaw,17.0,22.0
 739,3,21,24788,5,5,21,Granit,Xhaka,Xhaka,258,2023-01-21T11:00:00Z,Jesus,January,10,True,Xhaka,18.0,22.0
 740,301,21,24788,6,6,21,Kevin,De Bruyne,De Bruyne,3,2023-01-21T11:00:00Z,Jesus,January,14,True,De Bruyne,1.0,
@@ -750,8 +750,8 @@
 748,342,21,24788,14,0,21,Diogo,Dalot Teixeira,Dalot,464,2023-01-21T11:00:00Z,Jesus,January,1,False,Dalot,9.0,
 749,529,21,24788,15,0,21,Gianluca,Scamacca,Scamacca,53,2023-01-21T11:00:00Z,Jesus,January,9,False,Scamacca,11.0,22.0
 750,281,22,24788,1,2,22,Alisson,Ramses Becker,Alisson,112,2023-02-03T18:30:00Z,Jesus,February,2,True,Alisson,1.0,23.0
-751,526,22,24788,2,13,22,Ben,Mee,Mee,609,2023-02-03T18:30:00Z,Jesus,February,13,True,Mee,14.0,
-752,341,22,24788,3,2,22,Aaron,Wan-Bissaka,Wan-Bissaka,479,2023-02-03T18:30:00Z,Jesus,February,2,True,Wan-Bissaka,22.0,24.0
+751,526,22,24788,2,13,22,Ben,Mee,Mee,610,2023-02-03T18:30:00Z,Jesus,February,13,True,Mee,14.0,
+752,341,22,24788,3,2,22,Aaron,Wan-Bissaka,Wan-Bissaka,480,2023-02-03T18:30:00Z,Jesus,February,2,True,Wan-Bissaka,22.0,24.0
 753,299,22,24788,4,1,22,Kyle,Walker,Walker,237,2023-02-03T18:30:00Z,Jesus,February,1,True,Walker,1.0,
 754,593,22,24788,5,-1,22,Carlos Henrique,Casimiro,Casemiro,201,2023-02-03T18:30:00Z,Jesus,February,-1,True,Casemiro,22.0,24.0
 755,301,22,24788,6,1,22,Kevin,De Bruyne,De Bruyne,3,2023-02-03T18:30:00Z,Jesus,February,1,True,De Bruyne,1.0,
@@ -767,7 +767,7 @@
 765,729,23,24788,1,1,23,Keylor,Navas,Navas,357,2023-02-11T11:00:00Z,Jesus,February,1,True,Navas,23.0,26.0
 766,342,23,24788,2,6,23,Diogo,Dalot Teixeira,Dalot,464,2023-02-11T11:00:00Z,Jesus,February,12,True,Dalot,9.0,
 767,299,23,24788,3,3,23,Kyle,Walker,Walker,237,2023-02-11T11:00:00Z,Jesus,February,4,True,Walker,1.0,
-768,526,23,24788,4,2,23,Ben,Mee,Mee,609,2023-02-11T11:00:00Z,Jesus,February,15,True,Mee,14.0,
+768,526,23,24788,4,2,23,Ben,Mee,Mee,610,2023-02-11T11:00:00Z,Jesus,February,15,True,Mee,14.0,
 769,199,23,24788,5,1,23,James,Tarkowski,Tarkowski,437,2023-02-11T11:00:00Z,Jesus,February,1,True,Tarkowski,23.0,
 770,301,23,24788,6,15,23,Kevin,De Bruyne,De Bruyne,3,2023-02-11T11:00:00Z,Jesus,February,16,True,De Bruyne,1.0,
 771,335,23,24788,7,8,23,Marcus,Rashford,Rashford,64,2023-02-11T11:00:00Z,Jesus,February,28,True,Rashford,14.0,
@@ -777,12 +777,12 @@
 775,95,23,24788,11,2,23,Bryan,Mbeumo,Mbeumo,81,2023-02-11T11:00:00Z,Jesus,February,14,True,Mbeumo,22.0,
 776,478,23,24788,12,2,23,José,Malheiro de Sá,Sá,210,2023-02-11T11:00:00Z,Jesus,February,8,False,Sá,12.0,
 777,297,23,24788,13,5,23,Darwin,Núñez Ribeiro,Darwin,12,2023-02-11T11:00:00Z,Jesus,February,7,False,Darwin,17.0,
-778,341,23,24788,14,1,23,Aaron,Wan-Bissaka,Wan-Bissaka,479,2023-02-11T11:00:00Z,Jesus,February,3,False,Wan-Bissaka,22.0,24.0
+778,341,23,24788,14,1,23,Aaron,Wan-Bissaka,Wan-Bissaka,480,2023-02-11T11:00:00Z,Jesus,February,3,False,Wan-Bissaka,22.0,24.0
 779,593,23,24788,15,0,23,Carlos Henrique,Casimiro,Casemiro,201,2023-02-11T11:00:00Z,Jesus,February,-1,False,Casemiro,22.0,24.0
 780,478,24,24788,1,2,24,José,Malheiro de Sá,Sá,210,2023-02-18T11:00:00Z,Jesus,February,10,True,Sá,12.0,
 781,342,24,24788,2,6,24,Diogo,Dalot Teixeira,Dalot,464,2023-02-18T11:00:00Z,Jesus,February,18,True,Dalot,9.0,
 782,299,24,24788,3,2,24,Kyle,Walker,Walker,237,2023-02-18T11:00:00Z,Jesus,February,6,True,Walker,1.0,
-783,526,24,24788,4,1,24,Ben,Mee,Mee,609,2023-02-18T11:00:00Z,Jesus,February,16,True,Mee,14.0,
+783,526,24,24788,4,1,24,Ben,Mee,Mee,610,2023-02-18T11:00:00Z,Jesus,February,16,True,Mee,14.0,
 784,199,24,24788,5,8,24,James,Tarkowski,Tarkowski,437,2023-02-18T11:00:00Z,Jesus,February,9,True,Tarkowski,23.0,
 785,301,24,24788,6,2,24,Kevin,De Bruyne,De Bruyne,3,2023-02-18T11:00:00Z,Jesus,February,18,True,De Bruyne,1.0,
 786,335,24,24788,7,15,24,Marcus,Rashford,Rashford,64,2023-02-18T11:00:00Z,Jesus,February,43,True,Rashford,14.0,
@@ -806,13 +806,13 @@
 804,724,25,24788,10,2,25,Enzo,Fernández,Enzo,126,2023-02-24T18:30:00Z,Jesus,February,13,True,Enzo,22.0,27.0
 805,297,25,24788,11,2,25,Darwin,Núñez Ribeiro,Darwin,12,2023-02-24T18:30:00Z,Jesus,February,14,True,Darwin,17.0,
 806,729,25,24788,12,0,25,Keylor,Navas,Navas,357,2023-02-24T18:30:00Z,Jesus,February,5,False,Navas,23.0,26.0
-807,526,25,24788,13,0,25,Ben,Mee,Mee,609,2023-02-24T18:30:00Z,Jesus,February,16,False,Mee,14.0,
+807,526,25,24788,13,0,25,Ben,Mee,Mee,610,2023-02-24T18:30:00Z,Jesus,February,16,False,Mee,14.0,
 808,95,25,24788,14,0,25,Bryan,Mbeumo,Mbeumo,81,2023-02-24T18:30:00Z,Jesus,February,19,False,Mbeumo,22.0,
 809,594,25,24788,15,0,25,Alexander,Isak,Isak,39,2023-02-24T18:30:00Z,Jesus,February,4,False,Isak,22.0,
 810,81,26,24788,1,2,26,David,Raya Martin,Raya,428,2023-03-04T11:00:00Z,Jesus,March,2,True,Raya,26.0,
 811,342,26,24788,2,-1,26,Diogo,Dalot Teixeira,Dalot,464,2023-03-04T11:00:00Z,Jesus,March,-1,True,Dalot,9.0,
 812,199,26,24788,3,0,26,James,Tarkowski,Tarkowski,437,2023-03-04T11:00:00Z,Jesus,March,0,True,Tarkowski,23.0,
-813,526,26,24788,4,1,26,Ben,Mee,Mee,609,2023-03-04T11:00:00Z,Jesus,March,1,True,Mee,14.0,
+813,526,26,24788,4,1,26,Ben,Mee,Mee,610,2023-03-04T11:00:00Z,Jesus,March,1,True,Mee,14.0,
 814,258,26,24788,5,2,26,Timothy,Castagne,Castagne,445,2023-03-04T11:00:00Z,Jesus,March,2,True,Castagne,24.0,
 815,301,26,24788,6,3,26,Kevin,De Bruyne,De Bruyne,3,2023-03-04T11:00:00Z,Jesus,March,3,True,De Bruyne,1.0,
 816,335,26,24788,7,2,26,Marcus,Rashford,Rashford,64,2023-03-04T11:00:00Z,Jesus,March,2,True,Rashford,14.0,
@@ -825,7 +825,7 @@
 823,169,26,24788,14,1,26,Eberechi,Eze,Eze,167,2023-03-04T11:00:00Z,Jesus,March,1,False,Eze,25.0,29.0
 824,594,26,24788,15,1,26,Alexander,Isak,Isak,39,2023-03-04T11:00:00Z,Jesus,March,1,False,Isak,22.0,
 825,81,27,24788,1,9,27,David,Raya Martin,Raya,428,2023-03-11T11:00:00Z,Jesus,March,11,True,Raya,26.0,
-826,526,27,24788,2,9,27,Ben,Mee,Mee,609,2023-03-11T11:00:00Z,Jesus,March,10,True,Mee,14.0,
+826,526,27,24788,2,9,27,Ben,Mee,Mee,610,2023-03-11T11:00:00Z,Jesus,March,10,True,Mee,14.0,
 827,258,27,24788,3,1,27,Timothy,Castagne,Castagne,445,2023-03-11T11:00:00Z,Jesus,March,3,True,Castagne,24.0,
 828,299,27,24788,4,1,27,Kyle,Walker,Walker,237,2023-03-11T11:00:00Z,Jesus,March,7,True,Walker,1.0,
 829,301,27,24788,5,1,27,Kevin,De Bruyne,De Bruyne,3,2023-03-11T11:00:00Z,Jesus,March,4,True,De Bruyne,1.0,
@@ -841,7 +841,7 @@
 839,594,27,24788,15,7,27,Alexander,Isak,Isak,39,2023-03-11T11:00:00Z,Jesus,March,8,False,Isak,22.0,
 840,478,28,24788,1,0,28,José,Malheiro de Sá,Sá,210,2023-03-17T18:30:00Z,Jesus,March,14,True,Sá,12.0,
 841,199,28,24788,2,4,28,James,Tarkowski,Tarkowski,437,2023-03-17T18:30:00Z,Jesus,March,12,True,Tarkowski,23.0,
-842,526,28,24788,3,2,28,Ben,Mee,Mee,609,2023-03-17T18:30:00Z,Jesus,March,12,True,Mee,14.0,
+842,526,28,24788,3,2,28,Ben,Mee,Mee,610,2023-03-17T18:30:00Z,Jesus,March,12,True,Mee,14.0,
 843,258,28,24788,4,2,28,Timothy,Castagne,Castagne,445,2023-03-17T18:30:00Z,Jesus,March,5,True,Castagne,24.0,
 844,169,28,24788,5,1,28,Eberechi,Eze,Eze,167,2023-03-17T18:30:00Z,Jesus,March,4,True,Eze,25.0,29.0
 845,301,28,24788,6,0,28,Kevin,De Bruyne,De Bruyne,3,2023-03-17T18:30:00Z,Jesus,March,4,True,De Bruyne,1.0,
@@ -856,7 +856,7 @@
 854,297,28,24788,15,0,28,Darwin,Núñez Ribeiro,Darwin,12,2023-03-17T18:30:00Z,Jesus,March,14,False,Darwin,17.0,
 855,81,29,24788,1,6,29,David,Raya Martin,Raya,428,2023-04-01T10:00:00Z,Jesus,April,6,True,Raya,26.0,
 856,199,29,24788,2,2,29,James,Tarkowski,Tarkowski,437,2023-04-01T10:00:00Z,Jesus,April,2,True,Tarkowski,23.0,
-857,526,29,24788,3,1,29,Ben,Mee,Mee,609,2023-04-01T10:00:00Z,Jesus,April,1,True,Mee,14.0,
+857,526,29,24788,3,1,29,Ben,Mee,Mee,610,2023-04-01T10:00:00Z,Jesus,April,1,True,Mee,14.0,
 858,258,29,24788,4,6,29,Timothy,Castagne,Castagne,445,2023-04-01T10:00:00Z,Jesus,April,6,True,Castagne,24.0,
 859,283,29,24788,5,7,29,Mohamed,Salah,Salah,1,2023-04-01T10:00:00Z,Jesus,April,7,True,Salah,29.0,
 860,301,29,24788,6,13,29,Kevin,De Bruyne,De Bruyne,3,2023-04-01T10:00:00Z,Jesus,April,13,True,De Bruyne,1.0,
@@ -883,7 +883,7 @@
 881,425,1,42118,12,2,1,Hugo,Lloris,Lloris,113,2022-08-05T17:30:00Z,Kris,August,2,False,Lloris,1.0,23.0
 882,210,1,42118,13,13,1,Aleksandar,Mitrović,Mitrović,65,2022-08-05T17:30:00Z,Kris,August,13,False,Mitrović,1.0,6.0
 883,309,1,42118,14,0,1,Aymeric,Laporte,Laporte,73,2022-08-05T17:30:00Z,Kris,August,0,False,Laporte,1.0,6.0
-884,477,1,42118,15,1,1,Jonathan,Castro Otto,Jonny,486,2022-08-05T17:30:00Z,Kris,August,1,False,Jonny,1.0,9.0
+884,477,1,42118,15,1,1,Jonathan,Castro Otto,Jonny,487,2022-08-05T17:30:00Z,Kris,August,1,False,Jonny,1.0,9.0
 885,307,2,42118,1,6,2,Ederson,Santana de Moraes,Ederson,114,2022-08-13T10:00:00Z,Kris,August,13,True,Ederson,1.0,27.0
 886,146,2,42118,2,7,2,Reece,James,James,74,2022-08-13T10:00:00Z,Kris,August,14,True,James,1.0,12.0
 887,280,2,42118,3,2,2,Virgil,van Dijk,Van Dijk,54,2022-08-13T10:00:00Z,Kris,August,3,True,Van Dijk,1.0,20.0
@@ -898,7 +898,7 @@
 896,425,2,42118,12,1,2,Hugo,Lloris,Lloris,113,2022-08-13T10:00:00Z,Kris,August,3,False,Lloris,1.0,23.0
 897,80,2,42118,13,9,2,Ivan,Toney,Toney,44,2022-08-13T10:00:00Z,Kris,August,17,False,Toney,1.0,
 898,309,2,42118,14,0,2,Aymeric,Laporte,Laporte,73,2022-08-13T10:00:00Z,Kris,August,0,False,Laporte,1.0,6.0
-899,477,2,42118,15,6,2,Jonathan,Castro Otto,Jonny,486,2022-08-13T10:00:00Z,Kris,August,7,False,Jonny,1.0,9.0
+899,477,2,42118,15,6,2,Jonathan,Castro Otto,Jonny,487,2022-08-13T10:00:00Z,Kris,August,7,False,Jonny,1.0,9.0
 900,307,3,42118,1,1,3,Ederson,Santana de Moraes,Ederson,114,2022-08-20T10:00:00Z,Kris,August,14,True,Ederson,1.0,27.0
 901,146,3,42118,2,1,3,Reece,James,James,74,2022-08-20T10:00:00Z,Kris,August,15,True,James,1.0,12.0
 902,280,3,42118,3,1,3,Virgil,van Dijk,Van Dijk,54,2022-08-20T10:00:00Z,Kris,August,4,True,Van Dijk,1.0,20.0
@@ -913,12 +913,12 @@
 911,425,3,42118,12,9,3,Hugo,Lloris,Lloris,113,2022-08-20T10:00:00Z,Kris,August,12,False,Lloris,1.0,23.0
 912,305,3,42118,13,0,3,Jack,Grealish,Grealish,49,2022-08-20T10:00:00Z,Kris,August,4,False,Grealish,1.0,5.0
 913,309,3,42118,14,0,3,Aymeric,Laporte,Laporte,73,2022-08-20T10:00:00Z,Kris,August,0,False,Laporte,1.0,6.0
-914,477,3,42118,15,2,3,Jonathan,Castro Otto,Jonny,486,2022-08-20T10:00:00Z,Kris,August,9,False,Jonny,1.0,9.0
+914,477,3,42118,15,2,3,Jonathan,Castro Otto,Jonny,487,2022-08-20T10:00:00Z,Kris,August,9,False,Jonny,1.0,9.0
 915,307,4,42118,1,1,4,Ederson,Santana de Moraes,Ederson,114,2022-08-27T10:00:00Z,Kris,August,15,True,Ederson,1.0,27.0
 916,146,4,42118,2,7,4,Reece,James,James,74,2022-08-27T10:00:00Z,Kris,August,22,True,James,1.0,12.0
 917,280,4,42118,3,12,4,Virgil,van Dijk,Van Dijk,54,2022-08-27T10:00:00Z,Kris,August,16,True,Van Dijk,1.0,20.0
 918,16,4,42118,4,9,4,Gabriel,dos Santos Magalhães,Gabriel,209,2022-08-27T10:00:00Z,Kris,August,16,True,Gabriel,3.0,17.0
-919,477,4,42118,5,2,4,Jonathan,Castro Otto,Jonny,486,2022-08-27T10:00:00Z,Kris,August,11,True,Jonny,1.0,9.0
+919,477,4,42118,5,2,4,Jonathan,Castro Otto,Jonny,487,2022-08-27T10:00:00Z,Kris,August,11,True,Jonny,1.0,9.0
 920,428,4,42118,6,3,4,Son,Heung-min,Son,2,2022-08-27T10:00:00Z,Kris,August,13,True,Son,1.0,7.0
 921,293,4,42118,7,14,4,Luis,Díaz,Luis Díaz,25,2022-08-27T10:00:00Z,Kris,August,27,True,Luis Díaz,1.0,11.0
 922,19,4,42118,8,2,4,Gabriel,Martinelli Silva,Martinelli,83,2022-08-27T10:00:00Z,Kris,August,16,True,Martinelli,2.0,19.0
@@ -932,7 +932,7 @@
 930,307,5,42118,1,6,5,Ederson,Santana de Moraes,Ederson,114,2022-08-30T17:00:00Z,Kris,August,21,True,Ederson,1.0,27.0
 931,280,5,42118,2,2,5,Virgil,van Dijk,Van Dijk,54,2022-08-30T17:00:00Z,Kris,August,18,True,Van Dijk,1.0,20.0
 932,16,5,42118,3,2,5,Gabriel,dos Santos Magalhães,Gabriel,209,2022-08-30T17:00:00Z,Kris,August,18,True,Gabriel,3.0,17.0
-933,477,5,42118,4,6,5,Jonathan,Castro Otto,Jonny,486,2022-08-30T17:00:00Z,Kris,August,17,True,Jonny,1.0,9.0
+933,477,5,42118,4,6,5,Jonathan,Castro Otto,Jonny,487,2022-08-30T17:00:00Z,Kris,August,17,True,Jonny,1.0,9.0
 934,261,5,42118,5,1,5,James,Maddison,Maddison,15,2022-08-30T17:00:00Z,Kris,August,20,True,Maddison,1.0,19.0
 935,428,5,42118,6,2,5,Son,Heung-min,Son,2,2022-08-30T17:00:00Z,Kris,August,15,True,Son,1.0,7.0
 936,293,5,42118,7,2,5,Luis,Díaz,Luis Díaz,25,2022-08-30T17:00:00Z,Kris,August,29,True,Luis Díaz,1.0,11.0
@@ -947,7 +947,7 @@
 945,307,6,42118,1,2,6,Ederson,Santana de Moraes,Ederson,114,2022-09-03T10:00:00Z,Kris,September,2,True,Ederson,1.0,27.0
 946,146,6,42118,2,1,6,Reece,James,James,74,2022-09-03T10:00:00Z,Kris,September,1,True,James,1.0,12.0
 947,280,6,42118,3,5,6,Virgil,van Dijk,Van Dijk,54,2022-09-03T10:00:00Z,Kris,September,5,True,Van Dijk,1.0,20.0
-948,477,6,42118,4,5,6,Jonathan,Castro Otto,Jonny,486,2022-09-03T10:00:00Z,Kris,September,5,True,Jonny,1.0,9.0
+948,477,6,42118,4,5,6,Jonathan,Castro Otto,Jonny,487,2022-09-03T10:00:00Z,Kris,September,5,True,Jonny,1.0,9.0
 949,261,6,42118,5,2,6,James,Maddison,Maddison,15,2022-09-03T10:00:00Z,Kris,September,2,True,Maddison,1.0,19.0
 950,428,6,42118,6,2,6,Son,Heung-min,Son,2,2022-09-03T10:00:00Z,Kris,September,2,True,Son,1.0,7.0
 951,293,6,42118,7,3,6,Luis,Díaz,Luis Díaz,25,2022-09-03T10:00:00Z,Kris,September,3,True,Luis Díaz,1.0,11.0
@@ -972,13 +972,13 @@
 970,210,7,42118,11,0,7,Aleksandar,Mitrović,Mitrović,65,2022-09-10T10:00:00Z,Kris,September,0,True,Mitrović,7.0,25.0
 971,425,7,42118,12,0,7,Hugo,Lloris,Lloris,113,2022-09-10T10:00:00Z,Kris,September,2,False,Lloris,1.0,23.0
 972,303,7,42118,13,0,7,Riyad,Mahrez,Mahrez,20,2022-09-10T10:00:00Z,Kris,September,1,False,Mahrez,5.0,9.0
-973,477,7,42118,14,0,7,Jonathan,Castro Otto,Jonny,486,2022-09-10T10:00:00Z,Kris,September,5,False,Jonny,1.0,9.0
+973,477,7,42118,14,0,7,Jonathan,Castro Otto,Jonny,487,2022-09-10T10:00:00Z,Kris,September,5,False,Jonny,1.0,9.0
 974,326,7,42118,15,0,7,Cristiano Ronaldo,dos Santos Aveiro,Ronaldo,6,2022-09-10T10:00:00Z,Kris,September,1,False,Ronaldo,1.0,12.0
 975,307,8,42118,1,6,8,Ederson,Santana de Moraes,Ederson,114,2022-09-16T17:30:00Z,Kris,September,8,True,Ederson,1.0,27.0
 976,146,8,42118,2,0,8,Reece,James,James,74,2022-09-16T17:30:00Z,Kris,September,1,True,James,1.0,12.0
 977,16,8,42118,3,6,8,Gabriel,dos Santos Magalhães,Gabriel,209,2022-09-16T17:30:00Z,Kris,September,7,True,Gabriel,3.0,17.0
 978,367,8,42118,4,2,8,Matt,Targett,Targett,226,2022-09-16T17:30:00Z,Kris,September,2,True,Targett,7.0,11.0
-979,477,8,42118,5,1,8,Jonathan,Castro Otto,Jonny,486,2022-09-16T17:30:00Z,Kris,September,6,True,Jonny,1.0,9.0
+979,477,8,42118,5,1,8,Jonathan,Castro Otto,Jonny,487,2022-09-16T17:30:00Z,Kris,September,6,True,Jonny,1.0,9.0
 980,303,8,42118,6,1,8,Riyad,Mahrez,Mahrez,20,2022-09-16T17:30:00Z,Kris,September,2,True,Mahrez,5.0,9.0
 981,261,8,42118,7,7,8,James,Maddison,Maddison,15,2022-09-16T17:30:00Z,Kris,September,9,True,Maddison,1.0,19.0
 982,369,8,42118,8,2,8,Miguel,Almirón Rejala,Almirón,261,2022-09-16T17:30:00Z,Kris,September,2,True,Almirón,8.0,15.0
@@ -1036,7 +1036,7 @@
 1034,280,11,42118,15,8,11,Virgil,van Dijk,Van Dijk,54,2022-10-14T17:30:00Z,Kris,October,10,False,Van Dijk,1.0,20.0
 1035,425,12,42118,1,3,12,Hugo,Lloris,Lloris,113,2022-10-18T17:00:00Z,Kris,October,22,True,Lloris,1.0,23.0
 1036,167,12,42118,2,1,12,Marc,Guéhi,Guéhi,409,2022-10-18T17:00:00Z,Kris,October,8,True,Guéhi,11.0,17.0
-1037,268,12,42118,3,7,12,James,Justin,Justin,497,2022-10-18T17:00:00Z,Kris,October,7,True,Justin,12.0,16.0
+1037,268,12,42118,3,7,12,James,Justin,Justin,498,2022-10-18T17:00:00Z,Kris,October,7,True,Justin,12.0,16.0
 1038,366,12,42118,4,5,12,Fabian,Schär,Schär,435,2022-10-18T17:00:00Z,Kris,October,5,True,Schär,12.0,
 1039,280,12,42118,5,7,12,Virgil,van Dijk,Van Dijk,54,2022-10-18T17:00:00Z,Kris,October,17,True,Van Dijk,1.0,20.0
 1040,369,12,42118,6,10,12,Miguel,Almirón Rejala,Almirón,261,2022-10-18T17:00:00Z,Kris,October,35,True,Almirón,8.0,15.0
@@ -1063,7 +1063,7 @@
 1061,425,13,42118,12,2,13,Hugo,Lloris,Lloris,113,2022-10-22T10:00:00Z,Kris,October,24,False,Lloris,1.0,23.0
 1062,142,13,42118,13,2,13,Mason,Mount,Mount,18,2022-10-22T10:00:00Z,Kris,October,20,False,Mount,11.0,24.0
 1063,366,13,42118,14,2,13,Fabian,Schär,Schär,435,2022-10-22T10:00:00Z,Kris,October,7,False,Schär,12.0,
-1064,268,13,42118,15,6,13,James,Justin,Justin,497,2022-10-22T10:00:00Z,Kris,October,13,False,Justin,12.0,16.0
+1064,268,13,42118,15,6,13,James,Justin,Justin,498,2022-10-22T10:00:00Z,Kris,October,13,False,Justin,12.0,16.0
 1065,307,14,42118,1,9,14,Ederson,Santana de Moraes,Ederson,114,2022-10-29T10:00:00Z,Kris,October,24,True,Ederson,1.0,27.0
 1066,366,14,42118,2,6,14,Fabian,Schär,Schär,435,2022-10-29T10:00:00Z,Kris,October,13,True,Schär,12.0,
 1067,16,14,42118,3,6,14,Gabriel,dos Santos Magalhães,Gabriel,209,2022-10-29T10:00:00Z,Kris,October,19,True,Gabriel,3.0,17.0
@@ -1078,11 +1078,11 @@
 1076,425,14,42118,12,1,14,Hugo,Lloris,Lloris,113,2022-10-29T10:00:00Z,Kris,October,25,False,Lloris,1.0,23.0
 1077,261,14,42118,13,2,14,James,Maddison,Maddison,15,2022-10-29T10:00:00Z,Kris,October,31,False,Maddison,1.0,19.0
 1078,167,14,42118,14,6,14,Marc,Guéhi,Guéhi,409,2022-10-29T10:00:00Z,Kris,October,14,False,Guéhi,11.0,17.0
-1079,268,14,42118,15,2,14,James,Justin,Justin,497,2022-10-29T10:00:00Z,Kris,October,15,False,Justin,12.0,16.0
+1079,268,14,42118,15,2,14,James,Justin,Justin,498,2022-10-29T10:00:00Z,Kris,October,15,False,Justin,12.0,16.0
 1080,307,15,42118,1,2,15,Ederson,Santana de Moraes,Ederson,114,2022-11-05T13:30:00Z,Kris,November,2,True,Ederson,1.0,27.0
 1081,366,15,42118,2,2,15,Fabian,Schär,Schär,435,2022-11-05T13:30:00Z,Kris,November,2,True,Schär,12.0,
 1082,167,15,42118,3,2,15,Marc,Guéhi,Guéhi,409,2022-11-05T13:30:00Z,Kris,November,2,True,Guéhi,11.0,17.0
-1083,268,15,42118,4,7,15,James,Justin,Justin,497,2022-11-05T13:30:00Z,Kris,November,7,True,Justin,12.0,16.0
+1083,268,15,42118,4,7,15,James,Justin,Justin,498,2022-11-05T13:30:00Z,Kris,November,7,True,Justin,12.0,16.0
 1084,16,15,42118,5,15,15,Gabriel,dos Santos Magalhães,Gabriel,209,2022-11-05T13:30:00Z,Kris,November,15,True,Gabriel,3.0,17.0
 1085,519,15,42118,6,2,15,Christian,Eriksen,Eriksen,69,2022-11-05T13:30:00Z,Kris,November,2,True,Eriksen,15.0,16.0
 1086,142,15,42118,7,2,15,Mason,Mount,Mount,18,2022-11-05T13:30:00Z,Kris,November,2,True,Mount,11.0,24.0
@@ -1144,7 +1144,7 @@
 1142,280,19,42118,3,0,19,Virgil,van Dijk,Van Dijk,54,2023-01-02T16:00:00Z,Kris,January,0,True,Van Dijk,1.0,20.0
 1143,608,19,42118,4,1,19,Manuel,Akanji,Akanji,204,2023-01-02T16:00:00Z,Kris,January,1,True,Akanji,17.0,26.0
 1144,366,19,42118,5,6,19,Fabian,Schär,Schär,435,2023-01-02T16:00:00Z,Kris,January,6,True,Schär,12.0,
-1145,346,19,42118,6,5,19,Andreas,Hoelgebaum Pereira,Andreas,575,2023-01-02T16:00:00Z,Kris,January,5,True,Andreas,19.0,22.0
+1145,346,19,42118,6,5,19,Andreas,Hoelgebaum Pereira,Andreas,576,2023-01-02T16:00:00Z,Kris,January,5,True,Andreas,19.0,22.0
 1146,142,19,42118,7,4,19,Mason,Mount,Mount,18,2023-01-02T16:00:00Z,Kris,January,4,True,Mount,11.0,24.0
 1147,13,19,42118,8,3,19,Bukayo,Saka,Saka,16,2023-01-02T16:00:00Z,Kris,January,3,True,Saka,9.0,26.0
 1148,80,19,42118,9,0,19,Ivan,Toney,Toney,44,2023-01-02T16:00:00Z,Kris,January,0,True,Toney,1.0,
@@ -1168,7 +1168,7 @@
 1166,425,20,42118,12,0,20,Hugo,Lloris,Lloris,113,2023-01-13T18:30:00Z,Kris,January,7,False,Lloris,1.0,23.0
 1167,146,20,42118,13,0,20,Reece,James,James,74,2023-01-13T18:30:00Z,Kris,January,0,False,James,16.0,
 1168,112,20,42118,14,0,20,Marc,Cucurella Saseta,Cucurella,221,2023-01-13T18:30:00Z,Kris,January,3,False,Cucurella,17.0,21.0
-1169,346,20,42118,15,2,20,Andreas,Hoelgebaum Pereira,Andreas,575,2023-01-13T18:30:00Z,Kris,January,7,False,Andreas,19.0,22.0
+1169,346,20,42118,15,2,20,Andreas,Hoelgebaum Pereira,Andreas,576,2023-01-13T18:30:00Z,Kris,January,7,False,Andreas,19.0,22.0
 1170,307,21,42118,1,6,21,Ederson,Santana de Moraes,Ederson,114,2023-01-21T11:00:00Z,Kris,January,16,True,Ederson,1.0,27.0
 1171,608,21,42118,2,6,21,Manuel,Akanji,Akanji,204,2023-01-21T11:00:00Z,Kris,January,9,True,Akanji,17.0,26.0
 1172,366,21,42118,3,6,21,Fabian,Schär,Schär,435,2023-01-21T11:00:00Z,Kris,January,18,True,Schär,12.0,
@@ -1183,7 +1183,7 @@
 1181,425,21,42118,12,9,21,Hugo,Lloris,Lloris,113,2023-01-21T11:00:00Z,Kris,January,16,False,Lloris,1.0,23.0
 1182,146,21,42118,13,0,21,Reece,James,James,74,2023-01-21T11:00:00Z,Kris,January,0,False,James,16.0,
 1183,313,21,42118,14,1,21,Oleksandr,Zinchenko,Zinchenko,259,2023-01-21T11:00:00Z,Kris,January,1,False,Zinchenko,21.0,
-1184,346,21,42118,15,2,21,Andreas,Hoelgebaum Pereira,Andreas,575,2023-01-21T11:00:00Z,Kris,January,9,False,Andreas,19.0,22.0
+1184,346,21,42118,15,2,21,Andreas,Hoelgebaum Pereira,Andreas,576,2023-01-21T11:00:00Z,Kris,January,9,False,Andreas,19.0,22.0
 1185,307,22,42118,1,1,22,Ederson,Santana de Moraes,Ederson,114,2023-02-03T18:30:00Z,Kris,February,1,True,Ederson,1.0,27.0
 1186,313,22,42118,2,1,22,Oleksandr,Zinchenko,Zinchenko,259,2023-02-03T18:30:00Z,Kris,February,1,True,Zinchenko,21.0,
 1187,366,22,42118,3,2,22,Fabian,Schär,Schär,435,2023-02-03T18:30:00Z,Kris,February,2,True,Schär,12.0,
@@ -1211,7 +1211,7 @@
 1209,318,23,42118,10,10,23,Erling,Haaland,Haaland,5,2023-02-11T11:00:00Z,Kris,February,12,True,Haaland,22.0,
 1210,210,23,42118,11,2,23,Aleksandar,Mitrović,Mitrović,65,2023-02-11T11:00:00Z,Kris,February,4,True,Mitrović,7.0,25.0
 1211,182,23,42118,12,1,23,Jordan,Pickford,Pickford,417,2023-02-11T11:00:00Z,Kris,February,1,False,Pickford,23.0,26.0
-1212,569,23,42118,13,0,23,Rico,Lewis,Lewis,750,2023-02-11T11:00:00Z,Kris,February,0,False,Lewis,23.0,24.0
+1212,569,23,42118,13,0,23,Rico,Lewis,Lewis,751,2023-02-11T11:00:00Z,Kris,February,0,False,Lewis,23.0,24.0
 1213,142,23,42118,14,1,23,Mason,Mount,Mount,18,2023-02-11T11:00:00Z,Kris,February,4,False,Mount,11.0,24.0
 1214,80,23,42118,15,9,23,Ivan,Toney,Toney,44,2023-02-11T11:00:00Z,Kris,February,10,False,Toney,1.0,
 1215,307,24,42118,1,2,24,Ederson,Santana de Moraes,Ederson,114,2023-02-18T11:00:00Z,Kris,February,6,True,Ederson,1.0,27.0
@@ -1259,7 +1259,7 @@
 1257,88,26,42118,13,10,26,Mathias,Jensen,Jensen,264,2023-03-04T11:00:00Z,Kris,March,10,False,Jensen,26.0,29.0
 1258,146,26,42118,14,0,26,Reece,James,James,74,2023-03-04T11:00:00Z,Kris,March,0,False,James,16.0,
 1259,366,26,42118,15,0,26,Fabian,Schär,Schär,435,2023-03-04T11:00:00Z,Kris,March,0,False,Schär,12.0,
-1260,102,27,42118,1,11,27,Jason,Steele,Steele,695,2023-03-11T11:00:00Z,Kris,March,11,True,Steele,27.0,
+1260,102,27,42118,1,11,27,Jason,Steele,Steele,696,2023-03-11T11:00:00Z,Kris,March,11,True,Steele,27.0,
 1261,313,27,42118,2,6,27,Oleksandr,Zinchenko,Zinchenko,259,2023-03-11T11:00:00Z,Kris,March,7,True,Zinchenko,21.0,
 1262,586,27,42118,3,9,27,Pervis,Estupiñán,Estupiñán,413,2023-03-11T11:00:00Z,Kris,March,15,True,Estupiñán,26.0,
 1263,284,27,42118,4,2,27,Andrew,Robertson,Robertson,40,2023-03-11T11:00:00Z,Kris,March,11,True,Robertson,24.0,
@@ -1274,7 +1274,7 @@
 1272,262,27,42118,13,2,27,Kelechi,Iheanacho,Iheanacho,63,2023-03-11T11:00:00Z,Kris,March,4,False,Iheanacho,25.0,29.0
 1273,146,27,42118,14,0,27,Reece,James,James,74,2023-03-11T11:00:00Z,Kris,March,0,False,James,16.0,
 1274,366,27,42118,15,2,27,Fabian,Schär,Schär,435,2023-03-11T11:00:00Z,Kris,March,2,False,Schär,12.0,
-1275,426,28,42118,1,2,28,Fraser,Forster,Forster,673,2023-03-17T18:30:00Z,Kris,March,2,True,Forster,28.0,29.0
+1275,426,28,42118,1,2,28,Fraser,Forster,Forster,674,2023-03-17T18:30:00Z,Kris,March,2,True,Forster,28.0,29.0
 1276,313,28,42118,2,2,28,Oleksandr,Zinchenko,Zinchenko,259,2023-03-17T18:30:00Z,Kris,March,9,True,Zinchenko,21.0,
 1277,146,28,42118,3,3,28,Reece,James,James,74,2023-03-17T18:30:00Z,Kris,March,3,True,James,16.0,
 1278,284,28,42118,4,0,28,Andrew,Robertson,Robertson,40,2023-03-17T18:30:00Z,Kris,March,11,True,Robertson,24.0,
@@ -1285,11 +1285,11 @@
 1283,262,28,42118,9,1,28,Kelechi,Iheanacho,Iheanacho,63,2023-03-17T18:30:00Z,Kris,March,5,True,Iheanacho,25.0,29.0
 1284,80,28,42118,10,2,28,Ivan,Toney,Toney,44,2023-03-17T18:30:00Z,Kris,March,23,True,Toney,1.0,
 1285,318,28,42118,11,0,28,Erling,Haaland,Haaland,5,2023-03-17T18:30:00Z,Kris,March,10,True,Haaland,22.0,
-1286,102,28,42118,12,0,28,Jason,Steele,Steele,695,2023-03-17T18:30:00Z,Kris,March,11,False,Steele,27.0,
+1286,102,28,42118,12,0,28,Jason,Steele,Steele,696,2023-03-17T18:30:00Z,Kris,March,11,False,Steele,27.0,
 1287,116,28,42118,13,0,28,Alexis,Mac Allister,Mac Allister,139,2023-03-17T18:30:00Z,Kris,March,24,False,Mac Allister,26.0,
 1288,586,28,42118,14,0,28,Pervis,Estupiñán,Estupiñán,413,2023-03-17T18:30:00Z,Kris,March,15,False,Estupiñán,26.0,
 1289,107,28,42118,15,0,28,Solly,March,March,256,2023-03-17T18:30:00Z,Kris,March,14,False,March,21.0,
-1290,102,29,42118,1,10,29,Jason,Steele,Steele,695,2023-04-01T10:00:00Z,Kris,April,10,True,Steele,27.0,
+1290,102,29,42118,1,10,29,Jason,Steele,Steele,696,2023-04-01T10:00:00Z,Kris,April,10,True,Steele,27.0,
 1291,284,29,42118,2,2,29,Andrew,Robertson,Robertson,40,2023-04-01T10:00:00Z,Kris,April,2,True,Robertson,24.0,
 1292,366,29,42118,3,6,29,Fabian,Schär,Schär,435,2023-04-01T10:00:00Z,Kris,April,6,True,Schär,12.0,
 1293,586,29,42118,4,7,29,Pervis,Estupiñán,Estupiñán,413,2023-04-01T10:00:00Z,Kris,April,7,True,Estupiñán,26.0,
@@ -1315,7 +1315,7 @@
 1313,160,1,154393,9,2,1,Wilfried,Zaha,Zaha,42,2022-08-05T17:30:00Z,Mattia,August,2,True,Zaha,1.0,25.0
 1314,427,1,154393,10,2,1,Harry,Kane,Kane,4,2022-08-05T17:30:00Z,Mattia,August,2,True,Kane,1.0,9.0
 1315,529,1,154393,11,1,1,Gianluca,Scamacca,Scamacca,53,2022-08-05T17:30:00Z,Mattia,August,1,True,Scamacca,1.0,6.0
-1316,2,1,154393,12,0,1,Bernd,Leno,Leno,523,2022-08-05T17:30:00Z,Mattia,August,0,False,Leno,1.0,2.0
+1316,2,1,154393,12,0,1,Bernd,Leno,Leno,524,2022-08-05T17:30:00Z,Mattia,August,0,False,Leno,1.0,2.0
 1317,137,1,154393,13,0,1,Timo,Werner,Werner,26,2022-08-05T17:30:00Z,Mattia,August,0,False,Werner,1.0,2.0
 1318,112,1,154393,14,0,1,Marc,Cucurella Saseta,Cucurella,221,2022-08-05T17:30:00Z,Mattia,August,0,False,Cucurella,1.0,17.0
 1319,332,1,154393,15,0,1,Luke,Shaw,Shaw,268,2022-08-05T17:30:00Z,Mattia,August,0,False,Shaw,1.0,3.0
@@ -1669,7 +1669,7 @@
 1667,312,25,154393,3,2,25,Rúben,Gato Alves Dias,Dias,75,2023-02-24T18:30:00Z,Mattia,February,6,True,Dias,1.0,
 1668,16,25,154393,4,15,25,Gabriel,dos Santos Magalhães,Gabriel,209,2023-02-24T18:30:00Z,Mattia,February,21,True,Gabriel,17.0,
 1669,445,25,154393,5,7,25,Emerson,Leite de Souza Junior,Emerson Royal,225,2023-02-24T18:30:00Z,Mattia,February,29,True,Emerson Roya,3.0,
-1670,201,25,154393,6,2,25,Tim,Ream,Ream,563,2023-02-24T18:30:00Z,Mattia,February,2,True,Ream,25.0,
+1670,201,25,154393,6,2,25,Tim,Ream,Ream,564,2023-02-24T18:30:00Z,Mattia,February,2,True,Ream,25.0,
 1671,314,25,154393,7,13,25,Phil,Foden,Foden,19,2023-02-24T18:30:00Z,Mattia,February,17,True,Foden,1.0,
 1672,428,25,154393,8,1,25,Son,Heung-min,Son,2,2023-02-24T18:30:00Z,Mattia,February,12,True,Son,14.0,
 1673,283,25,154393,9,11,25,Mohamed,Salah,Salah,1,2023-02-24T18:30:00Z,Mattia,February,30,True,Salah,22.0,29.0
@@ -1692,7 +1692,7 @@
 1690,427,26,154393,11,2,26,Harry,Kane,Kane,4,2023-03-04T11:00:00Z,Mattia,March,2,True,Kane,22.0,
 1691,281,26,154393,12,7,26,Alisson,Ramses Becker,Alisson,112,2023-03-04T11:00:00Z,Mattia,March,7,False,Alisson,25.0,
 1692,411,26,154393,13,4,26,Che,Adams,Adams,60,2023-03-04T11:00:00Z,Mattia,March,4,False,Adams,6.0,
-1693,201,26,154393,14,1,26,Tim,Ream,Ream,563,2023-03-04T11:00:00Z,Mattia,March,1,False,Ream,25.0,
+1693,201,26,154393,14,1,26,Tim,Ream,Ream,564,2023-03-04T11:00:00Z,Mattia,March,1,False,Ream,25.0,
 1694,465,26,154393,15,1,26,Jarrod,Bowen,Bowen,13,2023-03-04T11:00:00Z,Mattia,March,1,False,Bowen,25.0,
 1695,15,27,154393,1,6,27,Aaron,Ramsdale,Ramsdale,214,2023-03-11T11:00:00Z,Mattia,March,7,True,Ramsdale,7.0,
 1696,520,27,154393,2,5,27,Kalidou,Koulibaly,Koulibaly,197,2023-03-11T11:00:00Z,Mattia,March,13,True,Koulibaly,1.0,
@@ -1707,7 +1707,7 @@
 1705,255,27,154393,11,1,27,Jamie,Vardy,Vardy,9,2023-03-11T11:00:00Z,Mattia,March,2,True,Vardy,7.0,
 1706,281,27,154393,12,2,27,Alisson,Ramses Becker,Alisson,112,2023-03-11T11:00:00Z,Mattia,March,9,False,Alisson,25.0,
 1707,445,27,154393,13,0,27,Emerson,Leite de Souza Junior,Emerson Royal,225,2023-03-11T11:00:00Z,Mattia,March,1,False,Emerson Roya,3.0,
-1708,201,27,154393,14,1,27,Tim,Ream,Ream,563,2023-03-11T11:00:00Z,Mattia,March,2,False,Ream,25.0,
+1708,201,27,154393,14,1,27,Tim,Ream,Ream,564,2023-03-11T11:00:00Z,Mattia,March,2,False,Ream,25.0,
 1709,465,27,154393,15,2,27,Jarrod,Bowen,Bowen,13,2023-03-11T11:00:00Z,Mattia,March,3,False,Bowen,25.0,
 1710,15,28,154393,1,3,28,Aaron,Ramsdale,Ramsdale,214,2023-03-17T18:30:00Z,Mattia,March,10,True,Ramsdale,7.0,
 1711,520,28,154393,2,0,28,Kalidou,Koulibaly,Koulibaly,197,2023-03-17T18:30:00Z,Mattia,March,13,True,Koulibaly,1.0,
@@ -1722,7 +1722,7 @@
 1720,255,28,154393,11,1,28,Jamie,Vardy,Vardy,9,2023-03-17T18:30:00Z,Mattia,March,3,True,Vardy,7.0,
 1721,281,28,154393,12,0,28,Alisson,Ramses Becker,Alisson,112,2023-03-17T18:30:00Z,Mattia,March,9,False,Alisson,25.0,
 1722,312,28,154393,13,0,28,Rúben,Gato Alves Dias,Dias,75,2023-03-17T18:30:00Z,Mattia,March,12,False,Dias,1.0,
-1723,201,28,154393,14,0,28,Tim,Ream,Ream,563,2023-03-17T18:30:00Z,Mattia,March,2,False,Ream,25.0,
+1723,201,28,154393,14,0,28,Tim,Ream,Ream,564,2023-03-17T18:30:00Z,Mattia,March,2,False,Ream,25.0,
 1724,465,28,154393,15,0,28,Jarrod,Bowen,Bowen,13,2023-03-17T18:30:00Z,Mattia,March,3,False,Bowen,25.0,
 1725,15,29,154393,1,3,29,Aaron,Ramsdale,Ramsdale,214,2023-04-01T10:00:00Z,Mattia,April,3,True,Ramsdale,7.0,
 1726,520,29,154393,2,9,29,Kalidou,Koulibaly,Koulibaly,197,2023-04-01T10:00:00Z,Mattia,April,9,True,Koulibaly,1.0,
@@ -1737,7 +1737,7 @@
 1735,427,29,154393,11,7,29,Harry,Kane,Kane,4,2023-04-01T10:00:00Z,Mattia,April,7,True,Kane,22.0,
 1736,281,29,154393,12,7,29,Alisson,Ramses Becker,Alisson,112,2023-04-01T10:00:00Z,Mattia,April,7,False,Alisson,25.0,
 1737,445,29,154393,13,0,29,Emerson,Leite de Souza Junior,Emerson Royal,225,2023-04-01T10:00:00Z,Mattia,April,0,False,Emerson Roya,3.0,
-1738,201,29,154393,14,1,29,Tim,Ream,Ream,563,2023-04-01T10:00:00Z,Mattia,April,1,False,Ream,25.0,
+1738,201,29,154393,14,1,29,Tim,Ream,Ream,564,2023-04-01T10:00:00Z,Mattia,April,1,False,Ream,25.0,
 1739,465,29,154393,15,3,29,Jarrod,Bowen,Bowen,13,2023-04-01T10:00:00Z,Mattia,April,3,False,Bowen,25.0,
 1740,327,1,16133,1,1,1,David,De Gea Quintana,De Gea,215,2022-08-05T17:30:00Z,Ollie,August,1,True,De Gea,1.0,
 1741,448,1,16133,2,1,1,Ivan,Perišić,Perišić,192,2022-08-05T17:30:00Z,Ollie,August,1,True,Perišić,1.0,22.0
@@ -1781,14 +1781,14 @@
 1779,458,3,16133,10,2,3,Michail,Antonio,Antonio,31,2022-08-20T10:00:00Z,Ollie,August,5,True,Antonio,1.0,5.0
 1780,318,3,16133,11,6,3,Erling,Haaland,Haaland,5,2022-08-20T10:00:00Z,Ollie,August,24,True,Haaland,1.0,6.0
 1781,327,3,16133,12,3,3,David,De Gea Quintana,De Gea,215,2022-08-20T10:00:00Z,Ollie,August,5,False,De Gea,1.0,
-1782,83,3,16133,13,1,3,Josh,Dasilva,Dasilva,528,2022-08-20T10:00:00Z,Ollie,August,1,False,Dasilva,3.0,7.0
+1782,83,3,16133,13,1,3,Josh,Dasilva,Dasilva,529,2022-08-20T10:00:00Z,Ollie,August,1,False,Dasilva,3.0,7.0
 1783,276,3,16133,14,0,3,Joel,Matip,Matip,71,2022-08-20T10:00:00Z,Ollie,August,1,False,Matip,1.0,4.0
 1784,297,3,16133,15,0,3,Darwin,Núñez Ribeiro,Darwin,12,2022-08-20T10:00:00Z,Ollie,August,7,False,Darwin,1.0,17.0
 1785,327,4,16133,1,8,4,David,De Gea Quintana,De Gea,215,2022-08-27T10:00:00Z,Ollie,August,13,True,De Gea,1.0,
 1786,448,4,16133,2,6,4,Ivan,Perišić,Perišić,192,2022-08-27T10:00:00Z,Ollie,August,23,True,Perišić,1.0,22.0
 1787,357,4,16133,3,2,4,Kieran,Trippier,Trippier,286,2022-08-27T10:00:00Z,Ollie,August,22,True,Trippier,1.0,22.0
 1788,109,4,16133,4,6,4,Joël,Veltman,Veltman,429,2022-08-27T10:00:00Z,Ollie,August,6,True,Veltman,4.0,8.0
-1789,83,4,16133,5,2,4,Josh,Dasilva,Dasilva,528,2022-08-27T10:00:00Z,Ollie,August,3,True,Dasilva,3.0,7.0
+1789,83,4,16133,5,2,4,Josh,Dasilva,Dasilva,529,2022-08-27T10:00:00Z,Ollie,August,3,True,Dasilva,3.0,7.0
 1790,304,4,16133,6,15,4,Raheem,Sterling,Sterling,7,2022-08-27T10:00:00Z,Ollie,August,24,True,Sterling,1.0,20.0
 1791,333,4,16133,7,8,4,Bruno,Borges Fernandes,Fernandes,8,2022-08-27T10:00:00Z,Ollie,August,12,True,Fernandes,1.0,15.0
 1792,465,4,16133,8,3,4,Jarrod,Bowen,Bowen,13,2022-08-27T10:00:00Z,Ollie,August,9,True,Bowen,1.0,5.0
@@ -1812,7 +1812,7 @@
 1810,279,5,16133,11,9,5,Roberto,Firmino,Firmino,27,2022-08-30T17:00:00Z,Ollie,August,9,True,Firmino,5.0,7.0
 1811,31,5,16133,12,3,5,Emiliano,Martínez Romero,Martínez,220,2022-08-30T17:00:00Z,Ollie,August,19,False,Martínez,1.0,15.0
 1812,313,5,16133,13,0,5,Oleksandr,Zinchenko,Zinchenko,259,2022-08-30T17:00:00Z,Ollie,August,19,False,Zinchenko,1.0,8.0
-1813,83,5,16133,14,1,5,Josh,Dasilva,Dasilva,528,2022-08-30T17:00:00Z,Ollie,August,4,False,Dasilva,3.0,7.0
+1813,83,5,16133,14,1,5,Josh,Dasilva,Dasilva,529,2022-08-30T17:00:00Z,Ollie,August,4,False,Dasilva,3.0,7.0
 1814,297,5,16133,15,0,5,Darwin,Núñez Ribeiro,Darwin,12,2022-08-30T17:00:00Z,Ollie,August,7,False,Darwin,1.0,17.0
 1815,327,6,16133,1,2,6,David,De Gea Quintana,De Gea,215,2022-09-03T10:00:00Z,Ollie,September,2,True,De Gea,1.0,
 1816,448,6,16133,2,1,6,Ivan,Perišić,Perišić,192,2022-09-03T10:00:00Z,Ollie,September,1,True,Perišić,1.0,22.0
@@ -1822,12 +1822,12 @@
 1820,304,6,16133,6,2,6,Raheem,Sterling,Sterling,7,2022-09-03T10:00:00Z,Ollie,September,2,True,Sterling,1.0,20.0
 1821,333,6,16133,7,7,6,Bruno,Borges Fernandes,Fernandes,8,2022-09-03T10:00:00Z,Ollie,September,7,True,Fernandes,1.0,15.0
 1822,311,6,16133,8,3,6,Bernardo,Veiga de Carvalho e Silva,Bernardo,41,2022-09-03T10:00:00Z,Ollie,September,3,True,Bernardo,5.0,22.0
-1823,346,6,16133,9,2,6,Andreas,Hoelgebaum Pereira,Andreas,575,2022-09-03T10:00:00Z,Ollie,September,2,True,Andreas,6.0,9.0
+1823,346,6,16133,9,2,6,Andreas,Hoelgebaum Pereira,Andreas,576,2022-09-03T10:00:00Z,Ollie,September,2,True,Andreas,6.0,9.0
 1824,103,6,16133,10,5,6,Danny,Welbeck,Welbeck,62,2022-09-03T10:00:00Z,Ollie,September,5,True,Welbeck,6.0,8.0
 1825,279,6,16133,11,1,6,Roberto,Firmino,Firmino,27,2022-09-03T10:00:00Z,Ollie,September,1,True,Firmino,5.0,7.0
 1826,31,6,16133,12,3,6,Emiliano,Martínez Romero,Martínez,220,2022-09-03T10:00:00Z,Ollie,September,3,False,Martínez,1.0,15.0
 1827,435,6,16133,13,0,6,Davinson,Sánchez,Sánchez,431,2022-09-03T10:00:00Z,Ollie,September,0,False,Sánchez,5.0,8.0
-1828,83,6,16133,14,1,6,Josh,Dasilva,Dasilva,528,2022-09-03T10:00:00Z,Ollie,September,1,False,Dasilva,3.0,7.0
+1828,83,6,16133,14,1,6,Josh,Dasilva,Dasilva,529,2022-09-03T10:00:00Z,Ollie,September,1,False,Dasilva,3.0,7.0
 1829,297,6,16133,15,2,6,Darwin,Núñez Ribeiro,Darwin,12,2022-09-03T10:00:00Z,Ollie,September,2,False,Darwin,1.0,17.0
 1830,327,7,16133,1,0,7,David,De Gea Quintana,De Gea,215,2022-09-10T10:00:00Z,Ollie,September,2,True,De Gea,1.0,
 1831,448,7,16133,2,0,7,Ivan,Perišić,Perišić,192,2022-09-10T10:00:00Z,Ollie,September,1,True,Perišić,1.0,22.0
@@ -1836,7 +1836,7 @@
 1834,435,7,16133,5,0,7,Davinson,Sánchez,Sánchez,431,2022-09-10T10:00:00Z,Ollie,September,0,True,Sánchez,5.0,8.0
 1835,304,7,16133,6,0,7,Raheem,Sterling,Sterling,7,2022-09-10T10:00:00Z,Ollie,September,2,True,Sterling,1.0,20.0
 1836,333,7,16133,7,0,7,Bruno,Borges Fernandes,Fernandes,8,2022-09-10T10:00:00Z,Ollie,September,7,True,Fernandes,1.0,15.0
-1837,346,7,16133,8,0,7,Andreas,Hoelgebaum Pereira,Andreas,575,2022-09-10T10:00:00Z,Ollie,September,2,True,Andreas,6.0,9.0
+1837,346,7,16133,8,0,7,Andreas,Hoelgebaum Pereira,Andreas,576,2022-09-10T10:00:00Z,Ollie,September,2,True,Andreas,6.0,9.0
 1838,311,7,16133,9,0,7,Bernardo,Veiga de Carvalho e Silva,Bernardo,41,2022-09-10T10:00:00Z,Ollie,September,3,True,Bernardo,5.0,22.0
 1839,145,7,16133,10,0,7,Kai,Havertz,Havertz,22,2022-09-10T10:00:00Z,Ollie,September,0,True,Havertz,7.0,8.0
 1840,103,7,16133,11,0,7,Danny,Welbeck,Welbeck,62,2022-09-10T10:00:00Z,Ollie,September,5,True,Welbeck,6.0,8.0
@@ -1851,7 +1851,7 @@
 1849,366,8,16133,5,2,8,Fabian,Schär,Schär,435,2022-09-16T17:30:00Z,Ollie,September,2,True,Schär,8.0,11.0
 1850,475,8,16133,6,5,8,Conor,Coady,Coady,212,2022-09-16T17:30:00Z,Ollie,September,5,True,Coady,8.0,22.0
 1851,433,8,16133,7,5,8,Pierre-Emile,Højbjerg,Højbjerg,133,2022-09-16T17:30:00Z,Ollie,September,5,True,Højbjerg,8.0,14.0
-1852,346,8,16133,8,1,8,Andreas,Hoelgebaum Pereira,Andreas,575,2022-09-16T17:30:00Z,Ollie,September,3,True,Andreas,6.0,9.0
+1852,346,8,16133,8,1,8,Andreas,Hoelgebaum Pereira,Andreas,576,2022-09-16T17:30:00Z,Ollie,September,3,True,Andreas,6.0,9.0
 1853,311,8,16133,9,6,8,Bernardo,Veiga de Carvalho e Silva,Bernardo,41,2022-09-16T17:30:00Z,Ollie,September,9,True,Bernardo,5.0,22.0
 1854,394,8,16133,10,2,8,Brennan,Johnson,Johnson,100,2022-09-16T17:30:00Z,Ollie,September,2,True,Johnson,8.0,9.0
 1855,625,8,16133,11,0,8,Diego,Da Silva Costa,Diego Costa,119,2022-09-16T17:30:00Z,Ollie,September,0,True,Diego Costa,8.0,12.0
@@ -1906,7 +1906,7 @@
 1904,225,11,16133,15,1,11,Rodrigo,Moreno,Rodrigo,89,2022-10-14T17:30:00Z,Ollie,October,5,False,Rodrigo,9.0,13.0
 1905,31,12,16133,1,2,12,Emiliano,Martínez Romero,Martínez,220,2022-10-18T17:00:00Z,Ollie,October,11,True,Martínez,1.0,15.0
 1906,448,12,16133,2,1,12,Ivan,Perišić,Perišić,192,2022-10-18T17:00:00Z,Ollie,October,11,True,Perišić,1.0,22.0
-1907,286,12,16133,3,6,12,Joseph,Gomez,Gomez,506,2022-10-18T17:00:00Z,Ollie,October,6,True,Gomez,12.0,19.0
+1907,286,12,16133,3,6,12,Joseph,Gomez,Gomez,507,2022-10-18T17:00:00Z,Ollie,October,6,True,Gomez,12.0,19.0
 1908,357,12,16133,4,9,12,Kieran,Trippier,Trippier,286,2022-10-18T17:00:00Z,Ollie,October,29,True,Trippier,1.0,22.0
 1909,225,12,16133,5,1,12,Rodrigo,Moreno,Rodrigo,89,2022-10-18T17:00:00Z,Ollie,October,6,True,Rodrigo,9.0,13.0
 1910,304,12,16133,6,1,12,Raheem,Sterling,Sterling,7,2022-10-18T17:00:00Z,Ollie,October,6,True,Sterling,1.0,20.0
@@ -1923,7 +1923,7 @@
 1921,448,13,16133,2,1,13,Ivan,Perišić,Perišić,192,2022-10-22T10:00:00Z,Ollie,October,12,True,Perišić,1.0,22.0
 1922,10,13,16133,3,6,13,Benjamin,White,White,420,2022-10-22T10:00:00Z,Ollie,October,18,True,White,8.0,
 1923,357,13,16133,4,2,13,Kieran,Trippier,Trippier,286,2022-10-22T10:00:00Z,Ollie,October,31,True,Trippier,1.0,22.0
-1924,286,13,16133,5,1,13,Joseph,Gomez,Gomez,506,2022-10-22T10:00:00Z,Ollie,October,7,True,Gomez,12.0,19.0
+1924,286,13,16133,5,1,13,Joseph,Gomez,Gomez,507,2022-10-22T10:00:00Z,Ollie,October,7,True,Gomez,12.0,19.0
 1925,475,13,16133,6,6,13,Conor,Coady,Coady,212,2022-10-22T10:00:00Z,Ollie,October,19,True,Coady,8.0,22.0
 1926,304,13,16133,7,3,13,Raheem,Sterling,Sterling,7,2022-10-22T10:00:00Z,Ollie,October,9,True,Sterling,1.0,20.0
 1927,333,13,16133,8,2,13,Bruno,Borges Fernandes,Fernandes,8,2022-10-22T10:00:00Z,Ollie,October,18,True,Fernandes,1.0,15.0
@@ -1936,7 +1936,7 @@
 1934,70,13,16133,15,2,13,Philip,Billing,Billing,183,2022-10-22T10:00:00Z,Ollie,October,2,False,Billing,13.0,18.0
 1935,327,14,16133,1,8,14,David,De Gea Quintana,De Gea,215,2022-10-29T10:00:00Z,Ollie,October,24,True,De Gea,1.0,
 1936,357,14,16133,2,11,14,Kieran,Trippier,Trippier,286,2022-10-29T10:00:00Z,Ollie,October,42,True,Trippier,1.0,22.0
-1937,286,14,16133,3,1,14,Joseph,Gomez,Gomez,506,2022-10-29T10:00:00Z,Ollie,October,8,True,Gomez,12.0,19.0
+1937,286,14,16133,3,1,14,Joseph,Gomez,Gomez,507,2022-10-29T10:00:00Z,Ollie,October,8,True,Gomez,12.0,19.0
 1938,10,14,16133,4,6,14,Benjamin,White,White,420,2022-10-29T10:00:00Z,Ollie,October,24,True,White,8.0,
 1939,304,14,16133,5,1,14,Raheem,Sterling,Sterling,7,2022-10-29T10:00:00Z,Ollie,October,10,True,Sterling,1.0,20.0
 1940,186,14,16133,6,3,14,Alex,Iwobi,Iwobi,149,2022-10-29T10:00:00Z,Ollie,October,3,True,Iwobi,14.0,17.0
@@ -1960,9 +1960,9 @@
 1958,279,15,16133,9,2,15,Roberto,Firmino,Firmino,27,2022-11-05T13:30:00Z,Ollie,November,2,True,Firmino,15.0,19.0
 1959,297,15,16133,10,7,15,Darwin,Núñez Ribeiro,Darwin,12,2022-11-05T13:30:00Z,Ollie,November,7,True,Darwin,1.0,17.0
 1960,427,15,16133,11,8,15,Harry,Kane,Kane,4,2022-11-05T13:30:00Z,Ollie,November,8,True,Kane,9.0,22.0
-1961,398,15,16133,12,0,15,Dean,Henderson,Henderson,590,2022-11-05T13:30:00Z,Ollie,November,0,False,Henderson,15.0,19.0
+1961,398,15,16133,12,0,15,Dean,Henderson,Henderson,591,2022-11-05T13:30:00Z,Ollie,November,0,False,Henderson,15.0,19.0
 1962,448,15,16133,13,1,15,Ivan,Perišić,Perišić,192,2022-11-05T13:30:00Z,Ollie,November,1,False,Perišić,1.0,22.0
-1963,286,15,16133,14,1,15,Joseph,Gomez,Gomez,506,2022-11-05T13:30:00Z,Ollie,November,1,False,Gomez,12.0,19.0
+1963,286,15,16133,14,1,15,Joseph,Gomez,Gomez,507,2022-11-05T13:30:00Z,Ollie,November,1,False,Gomez,12.0,19.0
 1964,70,15,16133,15,7,15,Philip,Billing,Billing,183,2022-11-05T13:30:00Z,Ollie,November,7,False,Billing,13.0,18.0
 1965,327,16,16133,1,4,16,David,De Gea Quintana,De Gea,215,2022-11-12T11:00:00Z,Ollie,November,5,True,De Gea,1.0,
 1966,10,16,16133,2,8,16,Benjamin,White,White,420,2022-11-12T11:00:00Z,Ollie,November,13,True,White,8.0,
@@ -1975,22 +1975,22 @@
 1973,279,16,16133,9,6,16,Roberto,Firmino,Firmino,27,2022-11-12T11:00:00Z,Ollie,November,8,True,Firmino,15.0,19.0
 1974,297,16,16133,10,13,16,Darwin,Núñez Ribeiro,Darwin,12,2022-11-12T11:00:00Z,Ollie,November,20,True,Darwin,1.0,17.0
 1975,427,16,16133,11,11,16,Harry,Kane,Kane,4,2022-11-12T11:00:00Z,Ollie,November,19,True,Kane,9.0,22.0
-1976,398,16,16133,12,6,16,Dean,Henderson,Henderson,590,2022-11-12T11:00:00Z,Ollie,November,6,False,Henderson,15.0,19.0
+1976,398,16,16133,12,6,16,Dean,Henderson,Henderson,591,2022-11-12T11:00:00Z,Ollie,November,6,False,Henderson,15.0,19.0
 1977,304,16,16133,13,0,16,Raheem,Sterling,Sterling,7,2022-11-12T11:00:00Z,Ollie,November,1,False,Sterling,1.0,20.0
-1978,286,16,16133,14,2,16,Joseph,Gomez,Gomez,506,2022-11-12T11:00:00Z,Ollie,November,3,False,Gomez,12.0,19.0
+1978,286,16,16133,14,2,16,Joseph,Gomez,Gomez,507,2022-11-12T11:00:00Z,Ollie,November,3,False,Gomez,12.0,19.0
 1979,70,16,16133,15,3,16,Philip,Billing,Billing,183,2022-11-12T11:00:00Z,Ollie,November,10,False,Billing,13.0,18.0
 1980,327,17,16133,1,7,17,David,De Gea Quintana,De Gea,215,2022-12-26T11:00:00Z,Ollie,December,7,True,De Gea,1.0,
 1981,448,17,16133,2,1,17,Ivan,Perišić,Perišić,192,2022-12-26T11:00:00Z,Ollie,December,1,True,Perišić,1.0,22.0
 1982,10,17,16133,3,2,17,Benjamin,White,White,420,2022-12-26T11:00:00Z,Ollie,December,2,True,White,8.0,
 1983,357,17,16133,4,12,17,Kieran,Trippier,Trippier,286,2022-12-26T11:00:00Z,Ollie,December,12,True,Trippier,1.0,22.0
-1984,286,17,16133,5,1,17,Joseph,Gomez,Gomez,506,2022-12-26T11:00:00Z,Ollie,December,1,True,Gomez,12.0,19.0
+1984,286,17,16133,5,1,17,Joseph,Gomez,Gomez,507,2022-12-26T11:00:00Z,Ollie,December,1,True,Gomez,12.0,19.0
 1985,304,17,16133,6,6,17,Raheem,Sterling,Sterling,7,2022-12-26T11:00:00Z,Ollie,December,6,True,Sterling,1.0,20.0
 1986,7,17,16133,7,11,17,Martin,Ødegaard,Ødegaard,57,2022-12-26T11:00:00Z,Ollie,December,11,True,Ødegaard,15.0,19.0
 1987,104,17,16133,8,2,17,Pascal,Groß,Groß,146,2022-12-26T11:00:00Z,Ollie,December,2,True,Groß,17.0,24.0
 1988,70,17,16133,9,2,17,Philip,Billing,Billing,183,2022-12-26T11:00:00Z,Ollie,December,2,True,Billing,13.0,18.0
 1989,271,17,16133,10,1,17,Patson,Daka,Daka,94,2022-12-26T11:00:00Z,Ollie,December,1,True,Daka,17.0,22.0
 1990,427,17,16133,11,7,17,Harry,Kane,Kane,4,2022-12-26T11:00:00Z,Ollie,December,7,True,Kane,9.0,22.0
-1991,398,17,16133,12,0,17,Dean,Henderson,Henderson,590,2022-12-26T11:00:00Z,Ollie,December,0,False,Henderson,15.0,19.0
+1991,398,17,16133,12,0,17,Dean,Henderson,Henderson,591,2022-12-26T11:00:00Z,Ollie,December,0,False,Henderson,15.0,19.0
 1992,311,17,16133,13,0,17,Bernardo,Veiga de Carvalho e Silva,Bernardo,41,2022-12-26T11:00:00Z,Ollie,December,0,False,Bernardo,5.0,22.0
 1993,475,17,16133,14,0,17,Conor,Coady,Coady,212,2022-12-26T11:00:00Z,Ollie,December,0,False,Coady,8.0,22.0
 1994,279,17,16133,15,0,17,Roberto,Firmino,Firmino,27,2022-12-26T11:00:00Z,Ollie,December,0,False,Firmino,15.0,19.0
@@ -2005,15 +2005,15 @@
 2003,433,18,16133,9,2,18,Pierre-Emile,Højbjerg,Højbjerg,133,2022-12-30T18:15:00Z,Ollie,December,2,True,Højbjerg,18.0,28.0
 2004,271,18,16133,10,4,18,Patson,Daka,Daka,94,2022-12-30T18:15:00Z,Ollie,December,5,True,Daka,17.0,22.0
 2005,427,18,16133,11,2,18,Harry,Kane,Kane,4,2022-12-30T18:15:00Z,Ollie,December,9,True,Kane,9.0,22.0
-2006,398,18,16133,12,2,18,Dean,Henderson,Henderson,590,2022-12-30T18:15:00Z,Ollie,December,2,False,Henderson,15.0,19.0
-2007,286,18,16133,13,1,18,Joseph,Gomez,Gomez,506,2022-12-30T18:15:00Z,Ollie,December,2,False,Gomez,12.0,19.0
+2006,398,18,16133,12,2,18,Dean,Henderson,Henderson,591,2022-12-30T18:15:00Z,Ollie,December,2,False,Henderson,15.0,19.0
+2007,286,18,16133,13,1,18,Joseph,Gomez,Gomez,507,2022-12-30T18:15:00Z,Ollie,December,2,False,Gomez,12.0,19.0
 2008,475,18,16133,14,2,18,Conor,Coady,Coady,212,2022-12-30T18:15:00Z,Ollie,December,2,False,Coady,8.0,22.0
 2009,279,18,16133,15,0,18,Roberto,Firmino,Firmino,27,2022-12-30T18:15:00Z,Ollie,December,0,False,Firmino,15.0,19.0
-2010,2,19,16133,1,14,19,Bernd,Leno,Leno,523,2023-01-02T16:00:00Z,Ollie,January,14,True,Leno,19.0,28.0
+2010,2,19,16133,1,14,19,Bernd,Leno,Leno,524,2023-01-02T16:00:00Z,Ollie,January,14,True,Leno,19.0,28.0
 2011,357,19,16133,2,8,19,Kieran,Trippier,Trippier,286,2023-01-02T16:00:00Z,Ollie,January,8,True,Trippier,1.0,22.0
 2012,448,19,16133,3,10,19,Ivan,Perišić,Perišić,192,2023-01-02T16:00:00Z,Ollie,January,10,True,Perišić,1.0,22.0
 2013,10,19,16133,4,7,19,Benjamin,White,White,420,2023-01-02T16:00:00Z,Ollie,January,7,True,White,8.0,
-2014,341,19,16133,5,6,19,Aaron,Wan-Bissaka,Wan-Bissaka,479,2023-01-02T16:00:00Z,Ollie,January,6,True,Wan-Bissaka,19.0,22.0
+2014,341,19,16133,5,6,19,Aaron,Wan-Bissaka,Wan-Bissaka,480,2023-01-02T16:00:00Z,Ollie,January,6,True,Wan-Bissaka,19.0,22.0
 2015,304,19,16133,6,1,19,Raheem,Sterling,Sterling,7,2023-01-02T16:00:00Z,Ollie,January,1,True,Sterling,1.0,20.0
 2016,104,19,16133,7,8,19,Pascal,Groß,Groß,146,2023-01-02T16:00:00Z,Ollie,January,8,True,Groß,17.0,24.0
 2017,407,19,16133,8,2,19,James,Ward-Prowse,Ward-Prowse,55,2023-01-02T16:00:00Z,Ollie,January,2,True,Ward-Prowse,19.0,20.0
@@ -2027,7 +2027,7 @@
 2025,327,20,16133,1,5,20,David,De Gea Quintana,De Gea,215,2023-01-13T18:30:00Z,Ollie,January,12,True,De Gea,1.0,
 2026,10,20,16133,2,8,20,Benjamin,White,White,420,2023-01-13T18:30:00Z,Ollie,January,15,True,White,8.0,
 2027,357,20,16133,3,9,20,Kieran,Trippier,Trippier,286,2023-01-13T18:30:00Z,Ollie,January,17,True,Trippier,1.0,22.0
-2028,341,20,16133,4,4,20,Aaron,Wan-Bissaka,Wan-Bissaka,479,2023-01-13T18:30:00Z,Ollie,January,10,True,Wan-Bissaka,19.0,22.0
+2028,341,20,16133,4,4,20,Aaron,Wan-Bissaka,Wan-Bissaka,480,2023-01-13T18:30:00Z,Ollie,January,10,True,Wan-Bissaka,19.0,22.0
 2029,448,20,16133,5,2,20,Ivan,Perišić,Perišić,192,2023-01-13T18:30:00Z,Ollie,January,12,True,Perišić,1.0,22.0
 2030,593,20,16133,6,7,20,Carlos Henrique,Casimiro,Casemiro,201,2023-01-13T18:30:00Z,Ollie,January,7,True,Casemiro,20.0,22.0
 2031,104,20,16133,7,3,20,Pascal,Groß,Groß,146,2023-01-13T18:30:00Z,Ollie,January,11,True,Groß,17.0,24.0
@@ -2035,14 +2035,14 @@
 2033,433,20,16133,9,3,20,Pierre-Emile,Højbjerg,Højbjerg,133,2023-01-13T18:30:00Z,Ollie,January,6,True,Højbjerg,18.0,28.0
 2034,40,20,16133,10,1,20,Ollie,Watkins,Watkins,32,2023-01-13T18:30:00Z,Ollie,January,3,True,Watkins,19.0,
 2035,427,20,16133,11,7,20,Harry,Kane,Kane,4,2023-01-13T18:30:00Z,Ollie,January,23,True,Kane,9.0,22.0
-2036,2,20,16133,12,3,20,Bernd,Leno,Leno,523,2023-01-13T18:30:00Z,Ollie,January,17,False,Leno,19.0,28.0
+2036,2,20,16133,12,3,20,Bernd,Leno,Leno,524,2023-01-13T18:30:00Z,Ollie,January,17,False,Leno,19.0,28.0
 2037,271,20,16133,13,0,20,Patson,Daka,Daka,94,2023-01-13T18:30:00Z,Ollie,January,0,False,Daka,17.0,22.0
 2038,475,20,16133,14,1,20,Conor,Coady,Coady,212,2023-01-13T18:30:00Z,Ollie,January,1,False,Coady,8.0,22.0
 2039,46,20,16133,15,2,20,Douglas Luiz,Soares de Paulo,Douglas Luiz,233,2023-01-13T18:30:00Z,Ollie,January,2,False,Douglas Luiz,20.0,24.0
 2040,327,21,16133,1,1,21,David,De Gea Quintana,De Gea,215,2023-01-21T11:00:00Z,Ollie,January,13,True,De Gea,1.0,
 2041,10,21,16133,2,0,21,Benjamin,White,White,420,2023-01-21T11:00:00Z,Ollie,January,15,True,White,8.0,
 2042,357,21,16133,3,8,21,Kieran,Trippier,Trippier,286,2023-01-21T11:00:00Z,Ollie,January,25,True,Trippier,1.0,22.0
-2043,341,21,16133,4,1,21,Aaron,Wan-Bissaka,Wan-Bissaka,479,2023-01-21T11:00:00Z,Ollie,January,11,True,Wan-Bissaka,19.0,22.0
+2043,341,21,16133,4,1,21,Aaron,Wan-Bissaka,Wan-Bissaka,480,2023-01-21T11:00:00Z,Ollie,January,11,True,Wan-Bissaka,19.0,22.0
 2044,448,21,16133,5,6,21,Ivan,Perišić,Perišić,192,2023-01-21T11:00:00Z,Ollie,January,18,True,Perišić,1.0,22.0
 2045,104,21,16133,6,2,21,Pascal,Groß,Groß,146,2023-01-21T11:00:00Z,Ollie,January,13,True,Groß,17.0,24.0
 2046,311,21,16133,7,1,21,Bernardo,Veiga de Carvalho e Silva,Bernardo,41,2023-01-21T11:00:00Z,Ollie,January,5,True,Bernardo,5.0,22.0
@@ -2050,7 +2050,7 @@
 2048,40,21,16133,9,8,21,Ollie,Watkins,Watkins,32,2023-01-21T11:00:00Z,Ollie,January,11,True,Watkins,19.0,
 2049,271,21,16133,10,1,21,Patson,Daka,Daka,94,2023-01-21T11:00:00Z,Ollie,January,1,True,Daka,17.0,22.0
 2050,427,21,16133,11,6,21,Harry,Kane,Kane,4,2023-01-21T11:00:00Z,Ollie,January,29,True,Kane,9.0,22.0
-2051,2,21,16133,12,2,21,Bernd,Leno,Leno,523,2023-01-21T11:00:00Z,Ollie,January,19,False,Leno,19.0,28.0
+2051,2,21,16133,12,2,21,Bernd,Leno,Leno,524,2023-01-21T11:00:00Z,Ollie,January,19,False,Leno,19.0,28.0
 2052,593,21,16133,13,0,21,Carlos Henrique,Casimiro,Casemiro,201,2023-01-21T11:00:00Z,Ollie,January,7,False,Casemiro,20.0,22.0
 2053,475,21,16133,14,1,21,Conor,Coady,Coady,212,2023-01-21T11:00:00Z,Ollie,January,2,False,Coady,8.0,22.0
 2054,46,21,16133,15,5,21,Douglas Luiz,Soares de Paulo,Douglas Luiz,233,2023-01-21T11:00:00Z,Ollie,January,7,False,Douglas Luiz,20.0,24.0
@@ -2058,14 +2058,14 @@
 2056,284,22,16133,2,1,22,Andrew,Robertson,Robertson,40,2023-02-03T18:30:00Z,Ollie,February,1,True,Robertson,22.0,23.0
 2057,10,22,16133,3,2,22,Benjamin,White,White,420,2023-02-03T18:30:00Z,Ollie,February,2,True,White,8.0,
 2058,332,22,16133,4,6,22,Luke,Shaw,Shaw,268,2023-02-03T18:30:00Z,Ollie,February,6,True,Shaw,22.0,26.0
-2059,533,22,16133,5,3,22,Lisandro,Martínez,Martínez,610,2023-02-03T18:30:00Z,Ollie,February,3,True,Martínez,22.0,23.0
+2059,533,22,16133,5,3,22,Lisandro,Martínez,Martínez,611,2023-02-03T18:30:00Z,Ollie,February,3,True,Martínez,22.0,23.0
 2060,358,22,16133,6,2,22,Dan,Burn,Burn,433,2023-02-03T18:30:00Z,Ollie,February,2,True,Burn,22.0,
 2061,264,22,16133,7,8,22,Harvey,Barnes,Barnes,45,2023-02-03T18:30:00Z,Ollie,February,8,True,Barnes,22.0,27.0
 2062,104,22,16133,8,3,22,Pascal,Groß,Groß,146,2023-02-03T18:30:00Z,Ollie,February,3,True,Groß,17.0,24.0
 2063,3,22,16133,9,2,22,Granit,Xhaka,Xhaka,258,2023-02-03T18:30:00Z,Ollie,February,2,True,Xhaka,22.0,
 2064,11,22,16133,10,2,22,Eddie,Nketiah,Nketiah,51,2023-02-03T18:30:00Z,Ollie,February,2,True,Nketiah,22.0,28.0
 2065,394,22,16133,11,9,22,Brennan,Johnson,Johnson,100,2023-02-03T18:30:00Z,Ollie,February,9,True,Johnson,22.0,28.0
-2066,2,22,16133,12,6,22,Bernd,Leno,Leno,523,2023-02-03T18:30:00Z,Ollie,February,6,False,Leno,19.0,28.0
+2066,2,22,16133,12,6,22,Bernd,Leno,Leno,524,2023-02-03T18:30:00Z,Ollie,February,6,False,Leno,19.0,28.0
 2067,40,22,16133,13,11,22,Ollie,Watkins,Watkins,32,2023-02-03T18:30:00Z,Ollie,February,11,False,Watkins,19.0,
 2068,433,22,16133,14,7,22,Pierre-Emile,Højbjerg,Højbjerg,133,2023-02-03T18:30:00Z,Ollie,February,7,False,Højbjerg,18.0,28.0
 2069,46,22,16133,15,2,22,Douglas Luiz,Soares de Paulo,Douglas Luiz,233,2023-02-03T18:30:00Z,Ollie,February,2,False,Douglas Luiz,20.0,24.0
@@ -2080,15 +2080,15 @@
 2078,40,23,16133,9,7,23,Ollie,Watkins,Watkins,32,2023-02-11T11:00:00Z,Ollie,February,18,True,Watkins,19.0,
 2079,11,23,16133,10,6,23,Eddie,Nketiah,Nketiah,51,2023-02-11T11:00:00Z,Ollie,February,8,True,Nketiah,22.0,28.0
 2080,394,23,16133,11,2,23,Brennan,Johnson,Johnson,100,2023-02-11T11:00:00Z,Ollie,February,11,True,Johnson,22.0,28.0
-2081,2,23,16133,12,6,23,Bernd,Leno,Leno,523,2023-02-11T11:00:00Z,Ollie,February,12,False,Leno,19.0,28.0
+2081,2,23,16133,12,6,23,Bernd,Leno,Leno,524,2023-02-11T11:00:00Z,Ollie,February,12,False,Leno,19.0,28.0
 2082,104,23,16133,13,2,23,Pascal,Groß,Groß,146,2023-02-11T11:00:00Z,Ollie,February,5,False,Groß,17.0,24.0
 2083,433,23,16133,14,2,23,Pierre-Emile,Højbjerg,Højbjerg,133,2023-02-11T11:00:00Z,Ollie,February,9,False,Højbjerg,18.0,28.0
 2084,46,23,16133,15,5,23,Douglas Luiz,Soares de Paulo,Douglas Luiz,233,2023-02-11T11:00:00Z,Ollie,February,7,False,Douglas Luiz,20.0,24.0
-2085,2,24,16133,1,11,24,Bernd,Leno,Leno,523,2023-02-18T11:00:00Z,Ollie,February,23,True,Leno,19.0,28.0
+2085,2,24,16133,1,11,24,Bernd,Leno,Leno,524,2023-02-18T11:00:00Z,Ollie,February,23,True,Leno,19.0,28.0
 2086,448,24,16133,2,0,24,Ivan,Perišić,Perišić,192,2023-02-18T11:00:00Z,Ollie,February,1,True,Perišić,23.0,28.0
 2087,10,24,16133,3,1,24,Benjamin,White,White,420,2023-02-18T11:00:00Z,Ollie,February,6,True,White,8.0,
 2088,332,24,16133,4,6,24,Luke,Shaw,Shaw,268,2023-02-18T11:00:00Z,Ollie,February,24,True,Shaw,22.0,26.0
-2089,346,24,16133,5,3,24,Andreas,Hoelgebaum Pereira,Andreas,575,2023-02-18T11:00:00Z,Ollie,February,3,True,Andreas,24.0,26.0
+2089,346,24,16133,5,3,24,Andreas,Hoelgebaum Pereira,Andreas,576,2023-02-18T11:00:00Z,Ollie,February,3,True,Andreas,24.0,26.0
 2090,3,24,16133,6,2,24,Granit,Xhaka,Xhaka,258,2023-02-18T11:00:00Z,Ollie,February,8,True,Xhaka,22.0,
 2091,480,24,16133,7,2,24,Rúben,da Silva Neves,Neves,138,2023-02-18T11:00:00Z,Ollie,February,2,True,Neves,24.0,26.0
 2092,264,24,16133,8,2,24,Harvey,Barnes,Barnes,45,2023-02-18T11:00:00Z,Ollie,February,16,True,Barnes,22.0,27.0
@@ -2099,14 +2099,14 @@
 2097,128,24,16133,13,0,24,Thiago,Emiliano da Silva,Thiago Silva,116,2023-02-18T11:00:00Z,Ollie,February,2,False,Thiago Silva,23.0,26.0
 2098,358,24,16133,14,1,24,Dan,Burn,Burn,433,2023-02-18T11:00:00Z,Ollie,February,5,False,Burn,22.0,
 2099,394,24,16133,15,2,24,Brennan,Johnson,Johnson,100,2023-02-18T11:00:00Z,Ollie,February,13,False,Johnson,22.0,28.0
-2100,2,25,16133,1,2,25,Bernd,Leno,Leno,523,2023-02-24T18:30:00Z,Ollie,February,25,True,Leno,19.0,28.0
+2100,2,25,16133,1,2,25,Bernd,Leno,Leno,524,2023-02-24T18:30:00Z,Ollie,February,25,True,Leno,19.0,28.0
 2101,128,25,16133,2,1,25,Thiago,Emiliano da Silva,Thiago Silva,116,2023-02-24T18:30:00Z,Ollie,February,3,True,Thiago Silva,23.0,26.0
 2102,10,25,16133,3,13,25,Benjamin,White,White,420,2023-02-24T18:30:00Z,Ollie,February,19,True,White,8.0,
 2103,448,25,16133,4,0,25,Ivan,Perišić,Perišić,192,2023-02-24T18:30:00Z,Ollie,February,1,True,Perišić,23.0,28.0
 2104,480,25,16133,5,3,25,Rúben,da Silva Neves,Neves,138,2023-02-24T18:30:00Z,Ollie,February,5,True,Neves,24.0,26.0
 2105,433,25,16133,6,3,25,Pierre-Emile,Højbjerg,Højbjerg,133,2023-02-24T18:30:00Z,Ollie,February,15,True,Højbjerg,18.0,28.0
 2106,3,25,16133,7,6,25,Granit,Xhaka,Xhaka,258,2023-02-24T18:30:00Z,Ollie,February,14,True,Xhaka,22.0,
-2107,346,25,16133,8,1,25,Andreas,Hoelgebaum Pereira,Andreas,575,2023-02-24T18:30:00Z,Ollie,February,4,True,Andreas,24.0,26.0
+2107,346,25,16133,8,1,25,Andreas,Hoelgebaum Pereira,Andreas,576,2023-02-24T18:30:00Z,Ollie,February,4,True,Andreas,24.0,26.0
 2108,394,25,16133,9,2,25,Brennan,Johnson,Johnson,100,2023-02-24T18:30:00Z,Ollie,February,15,True,Johnson,22.0,28.0
 2109,40,25,16133,10,6,25,Ollie,Watkins,Watkins,32,2023-02-24T18:30:00Z,Ollie,February,32,True,Watkins,19.0,
 2110,11,25,16133,11,5,25,Eddie,Nketiah,Nketiah,51,2023-02-24T18:30:00Z,Ollie,February,15,True,Nketiah,22.0,28.0
@@ -2114,7 +2114,7 @@
 2112,264,25,16133,13,2,25,Harvey,Barnes,Barnes,45,2023-02-24T18:30:00Z,Ollie,February,18,False,Barnes,22.0,27.0
 2113,358,25,16133,14,0,25,Dan,Burn,Burn,433,2023-02-24T18:30:00Z,Ollie,February,5,False,Burn,22.0,
 2114,332,25,16133,15,0,25,Luke,Shaw,Shaw,268,2023-02-24T18:30:00Z,Ollie,February,24,False,Shaw,22.0,26.0
-2115,2,26,16133,1,2,26,Bernd,Leno,Leno,523,2023-03-04T11:00:00Z,Ollie,March,2,True,Leno,19.0,28.0
+2115,2,26,16133,1,2,26,Bernd,Leno,Leno,524,2023-03-04T11:00:00Z,Ollie,March,2,True,Leno,19.0,28.0
 2116,448,26,16133,2,2,26,Ivan,Perišić,Perišić,192,2023-03-04T11:00:00Z,Ollie,March,2,True,Perišić,23.0,28.0
 2117,10,26,16133,3,7,26,Benjamin,White,White,420,2023-03-04T11:00:00Z,Ollie,March,7,True,White,8.0,
 2118,280,26,16133,4,6,26,Virgil,van Dijk,Van Dijk,54,2023-03-04T11:00:00Z,Ollie,March,6,True,Van Dijk,26.0,
@@ -2140,11 +2140,11 @@
 2138,3,27,16133,9,3,27,Granit,Xhaka,Xhaka,258,2023-03-11T11:00:00Z,Ollie,March,4,True,Xhaka,22.0,
 2139,394,27,16133,10,2,27,Brennan,Johnson,Johnson,100,2023-03-11T11:00:00Z,Ollie,March,15,True,Johnson,22.0,28.0
 2140,40,27,16133,11,8,27,Ollie,Watkins,Watkins,32,2023-03-11T11:00:00Z,Ollie,March,10,True,Watkins,19.0,
-2141,2,27,16133,12,2,27,Bernd,Leno,Leno,523,2023-03-11T11:00:00Z,Ollie,March,4,False,Leno,19.0,28.0
+2141,2,27,16133,12,2,27,Bernd,Leno,Leno,524,2023-03-11T11:00:00Z,Ollie,March,4,False,Leno,19.0,28.0
 2142,448,27,16133,13,0,27,Ivan,Perišić,Perišić,192,2023-03-11T11:00:00Z,Ollie,March,2,False,Perišić,23.0,28.0
 2143,11,27,16133,14,0,27,Eddie,Nketiah,Nketiah,51,2023-03-11T11:00:00Z,Ollie,March,0,False,Nketiah,22.0,28.0
 2144,358,27,16133,15,2,27,Dan,Burn,Burn,433,2023-03-11T11:00:00Z,Ollie,March,2,False,Burn,22.0,
-2145,254,28,16133,1,0,28,Danny,Ward,Ward,693,2023-03-17T18:30:00Z,Ollie,March,0,True,Ward,28.0,
+2145,254,28,16133,1,0,28,Danny,Ward,Ward,694,2023-03-17T18:30:00Z,Ollie,March,0,True,Ward,28.0,
 2146,430,28,16133,2,1,28,Eric,Dier,Dier,216,2023-03-17T18:30:00Z,Ollie,March,2,True,Dier,26.0,
 2147,10,28,16133,3,5,28,Benjamin,White,White,420,2023-03-17T18:30:00Z,Ollie,March,18,True,White,8.0,
 2148,358,28,16133,4,1,28,Dan,Burn,Burn,433,2023-03-17T18:30:00Z,Ollie,March,3,True,Burn,22.0,
@@ -2170,7 +2170,7 @@
 2168,30,29,16133,9,2,29,Danny,Ings,Ings,47,2023-04-01T10:00:00Z,Ollie,April,2,True,Ings,29.0,
 2169,145,29,16133,10,4,29,Kai,Havertz,Havertz,22,2023-04-01T10:00:00Z,Ollie,April,4,True,Havertz,28.0,
 2170,40,29,16133,11,17,29,Ollie,Watkins,Watkins,32,2023-04-01T10:00:00Z,Ollie,April,17,True,Watkins,19.0,
-2171,254,29,16133,12,0,29,Danny,Ward,Ward,693,2023-04-01T10:00:00Z,Ollie,April,0,False,Ward,28.0,
+2171,254,29,16133,12,0,29,Danny,Ward,Ward,694,2023-04-01T10:00:00Z,Ollie,April,0,False,Ward,28.0,
 2172,493,29,16133,13,4,29,Morgan,Gibbs-White,Gibbs-White,194,2023-04-01T10:00:00Z,Ollie,April,4,False,Gibbs-White,28.0,
 2173,430,29,16133,14,2,29,Eric,Dier,Dier,216,2023-04-01T10:00:00Z,Ollie,April,2,False,Dier,26.0,
 2174,3,29,16133,15,9,29,Granit,Xhaka,Xhaka,258,2023-04-01T10:00:00Z,Ollie,April,9,False,Xhaka,22.0,
