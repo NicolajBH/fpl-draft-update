@@ -13,8 +13,6 @@ players = {15606:'Nicolaj',24788:'Jesus',42118:'Kris',154393:'Mattia',16133:'Oll
 # create engine
 engine = create_engine('sqlite:///fpl-draft-db.db')
 
-TOKEN = 'MTA3NDY3Mzg4NDA0NzA4MTU4Mw.Guuved.zXdsgvACL7d-FgESg0iEOZ4Ml-a6ccIRgoCaww'
-
 overall_table = pd.read_sql('overall_table', engine)
 player_picks = pd.read_sql('picks_detailed',engine)
 months = list(overall_table.month.unique())
