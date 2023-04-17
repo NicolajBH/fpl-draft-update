@@ -9,14 +9,15 @@ from datetime import datetime, timezone
 players = {15606:'Nicolaj',24788:'Jesus',42118:'Kris',154393:'Mattia',16133:'Ollie'}
 # create engine
 engine = create_engine('sqlite:///fpl-draft-db.db')
+conn = engine.connect()
 
 # check for existing data
 # If no data then request all, else latest gameweek data and remove data where gw = start_gw
 # +1 gw after next deadline has passed
 try: 
-    start_gw = pd.read_sql("SELECT MAX(id) FROM deadlines WHERE finished=1",engine).values[0][0]
+    start_gw = pd.read_sql_query("SELECT MAX(id) FROM deadlines WHERE finished=1",conn).values[0][0]
     now = datetime.now(timezone.utc)
-    next_deadline = pd.read_sql("SELECT deadline_time FROM deadlines WHERE id = (SELECT MIN(id) FROM deadlines WHERE finished = 0)",engine).values[0][0]
+    next_deadline = pd.read_sql_query("SELECT deadline_time FROM deadlines WHERE id = (SELECT MIN(id) FROM deadlines WHERE finished = 0)",conn).values[0][0]
     next_deadline = datetime.strptime(next_deadline, "%Y-%m-%dT%H:%M:%S%z")
     if now > next_deadline:
         end_gw = start_gw+1
@@ -57,7 +58,7 @@ while response.status_code != 200:
     response = requests.request("GET", url, headers=headers)
 data = response.json()
 fantasy_player_info = pd.DataFrame(data['elements'])
-fantasy_player_info.to_sql('fantasy_player_info',engine,if_exists='replace', index=False)
+fantasy_player_info.to_sql('fantasy_player_info',engine,if_exists='replace',index=False)
 
 # get player stats
 # loop through gameweeks to scrape player stats and append new data
