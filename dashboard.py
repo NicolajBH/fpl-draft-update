@@ -1,18 +1,19 @@
 import pandas as pd
 import numpy as np
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text
 import streamlit as st
 
 # player names and entry ids
 players = {15606:'Nicolaj',24788:'Jesus',42118:'Kris',154393:'Mattia',16133:'Ollie'}
 # create engine
 engine = create_engine('sqlite:///fpl-draft-db.db')
+conn = engine.connect()
 
-draft_player_info = pd.read_sql('draft_player_info', engine)
-fantasy_player_info = pd.read_sql('fantasy_player_info',engine)
-player_picks = pd.read_sql('player_picks',engine)
-deadlines = pd.read_sql('deadlines',engine)
-player_stats = pd.read_sql('player_stats',engine)
+draft_player_info = pd.read_sql_table('draft_player_info', conn)
+fantasy_player_info = pd.read_sql_table('fantasy_player_info',conn)
+player_picks = pd.read_sql_table('player_picks',conn)
+deadlines = pd.read_sql_table('deadlines',conn)
+player_stats = pd.read_sql_table('player_stats',conn)
 
 # match ids in draft player info with fantasy player info
 draft_player_info = draft_player_info[['id','first_name','second_name','web_name','draft_rank','element_type', 'team']]
@@ -133,7 +134,7 @@ pretty = {e.replace('stats.','').title():e for e in stat_col}
 
 stat_dropdown = st.selectbox('Select stat', pretty.keys(), key='select player stats')
 stat = stat_col.index(pretty[stat_dropdown])
-gws = st.slider('Select gameweeks',min_gw,max_gw, (min_gw,max_gw), key='select players slider')
+gws = st.slider('Select gameweeks',int(min_gw),int(max_gw), (int(min_gw),int(max_gw)), key='select players slider')
 
 st.table(form_guide(gws,stat))
 
@@ -141,6 +142,6 @@ st.header('All Player Stats')
 
 stat_dropdown2 = st.selectbox('Select stat', pretty.keys(), key='all player stats')
 stat2 = stat_col.index(pretty[stat_dropdown2])
-gws2 = st.slider('Select gameweeks',min_gw,max_gw, (min_gw,max_gw), key='all players slider')
+gws2 = st.slider('Select gameweeks',int(min_gw),int(max_gw), (int(min_gw),int(max_gw)), key='all players slider')
 
 st.table(all_stats(gws2, stat2))
