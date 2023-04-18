@@ -8,6 +8,4 @@ Uses github actions to run main.py every hour to update the data. Can be changed
 
 Can be made to work with other draft leagues by editing the 'players' dictionary in main.py
 
-dashboard.py contains code to run a streamlit dashboard to display various stats
-
-discordbot.py is used to output monthly tables to discord using slash commands
+dashboard.py runs a streamlit dashboard to display various stats for the draft league
