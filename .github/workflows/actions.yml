@@ -19,6 +19,7 @@ jobs:
           cache: 'pip' # caching pip dependencies
           
       - uses: actions/cache@v3
+        id: cache
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-${{ hashFiles('**/lockfiles') }}
