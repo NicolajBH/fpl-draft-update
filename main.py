@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text
 import requests
 import pandas as pd
 import numpy as np
@@ -15,24 +15,29 @@ conn = engine.connect()
 # If no data then request all, else latest gameweek data and remove data where gw = start_gw
 # +1 gw after next deadline has passed
 try: 
-    start_gw = pd.read_sql_query("SELECT MAX(id) FROM deadlines WHERE finished=1",conn).values[0][0]
+    query = "SELECT MAX(id) FROM deadlines WHERE finished=1"
+    start_gw = pd.read_sql(text(query),conn).values[0][0]
     now = datetime.now(timezone.utc)
-    next_deadline = pd.read_sql_query("SELECT deadline_time FROM deadlines WHERE id = (SELECT MIN(id) FROM deadlines WHERE finished = 0)",conn).values[0][0]
+    query2 = "SELECT deadline_time FROM deadlines WHERE id = (SELECT MIN(id) FROM deadlines WHERE finished = 0)"
+    next_deadline = pd.read_sql(text(query2),conn).values[0][0]
     next_deadline = datetime.strptime(next_deadline, "%Y-%m-%dT%H:%M:%S%z")
     if now > next_deadline:
         end_gw = start_gw+1
     else:
         end_gw = start_gw
-    engine.execute(f'DELETE FROM player_picks WHERE gw = {start_gw} AND gw = {end_gw}')
-    engine.execute(f'DELETE FROM player_stats WHERE gw = {start_gw} AND gw = {end_gw}')
+    with engine.connect() as conn:
+        with conn.begin():
+            conn.execute(text(f'DELETE FROM player_picks WHERE gw BETWEEN {start_gw} AND {end_gw}'))
+            conn.execute(text(f'DELETE FROM player_stats WHERE gw BETWEEN {start_gw} AND {end_gw}'))
 except:
+    print('except')
     url = "https://draft.premierleague.com/api/game"
     headers = {"Cookie": "pl_euconsent-v2=CPnHJ0HPnHJ0HFCABAENC3CsAP_AAH_AAAwIF5wAQF5gXnABAXmAAAAA.YAAAAAAAAAAA; pl_euconsent-v2-intent-confirmed={%22tcf%22:[755]%2C%22oob%22:[]}; pl_oob-vendors={}"}
     response = requests.request("GET", url, headers=headers)
     data = response.json()
     start_gw = 1
     end_gw = data['current_event']
-
+print(start_gw, end_gw)
 # get player info from draft game mode
 url = "https://draft.premierleague.com/api/bootstrap-static"
 headers = {"Cookie": "pl_euconsent-v2=CPnHJ0HPnHJ0HFCABAENC3CsAP_AAH_AAAwIF5wAQF5gXnABAXmAAAAA.YAAAAAAAAAAA; pl_euconsent-v2-intent-confirmed={%22tcf%22:[755]%2C%22oob%22:[]}; pl_oob-vendors={}"}
@@ -43,7 +48,7 @@ while response.status_code != 200:
 data = response.json()
 draft_player_info = pd.DataFrame(data['elements'])
 draft_player_info.to_sql('draft_player_info',engine,if_exists='replace', index=False)
-
+print(str(len(draft_player_info)) + ' rows added to draft_player_info')
 # get deadlines and add month name
 deadlines = pd.DataFrame(data['events']['data'])
 deadlines['month'] = pd.DatetimeIndex(deadlines['deadline_time']).month_name()
@@ -59,6 +64,7 @@ while response.status_code != 200:
 data = response.json()
 fantasy_player_info = pd.DataFrame(data['elements'])
 fantasy_player_info.to_sql('fantasy_player_info',engine,if_exists='replace',index=False)
+print(str(len(fantasy_player_info)) + ' rows added to fantasy_player_info')
 
 # get player stats
 # loop through gameweeks to scrape player stats and append new data
@@ -72,8 +78,8 @@ for gw in range(start_gw, end_gw+1):
     data = response.json()
     player_stats_new_rows = pd.json_normalize(data,record_path=['elements']).drop(columns=['explain'])
     player_stats_new_rows['gw'] = gw
-    # player_stats_new_rows.columns = player_stats_new_rows.columns.str.replace("stats.","",regex=False)
     player_stats_new_rows.to_sql('player_stats',engine,if_exists='append', index=False)
+    print(str(len(player_stats_new_rows)) + ' rows added to player_stats')
 
 # get fantasy player picks for each player in the league
 # loop through gameweeks and entry ids to scrape player pick data and append new data to sql db
@@ -98,3 +104,4 @@ for gw in range(start_gw, end_gw+1):
         picks_new_rows.drop(columns=['is_captain','is_vice_captain','multiplier'], inplace=True)
         player_picks_df = pd.concat([player_picks_df,picks_new_rows])
 player_picks_df.to_sql('player_picks',engine,if_exists='append', index=False)
+print(str(len(player_picks_df)) + ' rows added to player_picks')

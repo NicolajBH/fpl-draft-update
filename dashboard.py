@@ -25,13 +25,12 @@ player_info = player_info.rename(columns={'id_x':'draft_id','id_y':'fpl_id'})
 convert_dict = {col:'float' for col in player_stats.select_dtypes('object').columns.to_list()}
 player_stats = player_stats.astype(convert_dict)
 
-# merge player picks with player info, stats and deadlines, add cumulative points
+# merge player picks with player info, stats and deadlines
 picks_detailed = player_picks.merge(player_info, left_on='element', right_on='draft_id')
 picks_detailed = picks_detailed.merge(player_stats, left_on=['fpl_id','gw'], right_on=['id', 'gw']).drop(columns=['id'])
 picks_detailed = picks_detailed.merge(deadlines[['deadline_time','month','id']], left_on=['gw'], right_on=['id']).drop(columns=['id'])
 
 # overall table
-
 ppm = picks_detailed.copy()
 ppm = picks_detailed[picks_detailed.played==True] # only include points if they played
 ppm = ppm[['team_id','gw','month','stats.total_points']]
@@ -107,7 +106,9 @@ st.title('Clueless Dashboard')
 
 st.header('Monthly Table')
 months = list(picks_detailed.month.unique())
-month_dropdown = st.selectbox('Pick month',months)
+months_reverse = months.copy()
+months_reverse.reverse()
+month_dropdown = st.selectbox('Pick month',months_reverse)
 st.table(monthly_table(month_dropdown))
 
 
