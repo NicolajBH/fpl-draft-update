@@ -8,4 +8,5 @@ Uses github actions to run main.py every hour to update the data. Can be changed
 
 Can be made to work with other draft leagues by editing the 'players' dictionary in main.py
 
-dashboard.py runs a streamlit dashboard to display various stats for the draft league
+dashboard.py runs a streamlit dashboard to display various stats for the draft league available at:
+https://clueless-draft.streamlit.app/
