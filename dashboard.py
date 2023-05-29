@@ -114,7 +114,7 @@ st.table(monthly_table(month_dropdown))
 
 st.header('Top Scorers')
 months_dropdown = st.multiselect('Select months', months)
-manager_dropdown = st.multiselect('Twat', players.values())
+manager_dropdown = st.multiselect('Team', players.values())
 
 if len(manager_dropdown) > 0 and len(months_dropdown) > 0:
     st.table(month_top_players(manager_dropdown,months_dropdown))
