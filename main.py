@@ -18,7 +18,10 @@ try:
     query = "SELECT MAX(id) FROM deadlines WHERE finished=1"
     start_gw = pd.read_sql(text(query),conn).values[0][0]
     now = datetime.now(timezone.utc)
-    query2 = "SELECT deadline_time FROM deadlines WHERE id = (SELECT MIN(id) FROM deadlines WHERE finished = 0)"
+    if start_gw == 38:
+        query2 = "SELECT deadline_time FROM deadlines WHERE id = (SELECT MAX(id) FROM deadlines WHERE finished = 1)"
+    else: 
+        query2 = "SELECT deadline_time FROM deadlines WHERE id = (SELECT MIN(id) FROM deadlines WHERE finished = 0)"
     next_deadline = pd.read_sql(text(query2),conn).values[0][0]
     next_deadline = datetime.strptime(next_deadline, "%Y-%m-%dT%H:%M:%S%z")
     if now > next_deadline:
