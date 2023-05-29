@@ -18,16 +18,17 @@ try:
     query = "SELECT MAX(id) FROM deadlines WHERE finished=1"
     start_gw = pd.read_sql(text(query),conn).values[0][0]
     now = datetime.now(timezone.utc)
+    
     if start_gw == 38:
-        query2 = "SELECT deadline_time FROM deadlines WHERE id = (SELECT MAX(id) FROM deadlines WHERE finished = 1)"
+        end_gw = 38
     else: 
         query2 = "SELECT deadline_time FROM deadlines WHERE id = (SELECT MIN(id) FROM deadlines WHERE finished = 0)"
-    next_deadline = pd.read_sql(text(query2),conn).values[0][0]
-    next_deadline = datetime.strptime(next_deadline, "%Y-%m-%dT%H:%M:%S%z")
-    if now > next_deadline:
-        end_gw = start_gw+1
-    else:
-        end_gw = start_gw
+        next_deadline = pd.read_sql(text(query2),conn).values[0][0]
+        next_deadline = datetime.strptime(next_deadline, "%Y-%m-%dT%H:%M:%S%z")
+        if now > next_deadline:
+            end_gw = start_gw+1
+        else:
+            end_gw = start_gw
     with engine.connect() as conn:
         with conn.begin():
             conn.execute(text(f'DELETE FROM player_picks WHERE gw BETWEEN {start_gw} AND {end_gw}'))
@@ -41,6 +42,7 @@ except:
     start_gw = 1
     end_gw = data['current_event']
 print(start_gw, end_gw)
+
 # get player info from draft game mode
 url = "https://draft.premierleague.com/api/bootstrap-static"
 headers = {"Cookie": "pl_euconsent-v2=CPnHJ0HPnHJ0HFCABAENC3CsAP_AAH_AAAwIF5wAQF5gXnABAXmAAAAA.YAAAAAAAAAAA; pl_euconsent-v2-intent-confirmed={%22tcf%22:[755]%2C%22oob%22:[]}; pl_oob-vendors={}"}
@@ -52,6 +54,7 @@ data = response.json()
 draft_player_info = pd.DataFrame(data['elements'])
 draft_player_info.to_sql('draft_player_info',engine,if_exists='replace', index=False)
 print(str(len(draft_player_info)) + ' rows added to draft_player_info')
+
 # get deadlines and add month name
 deadlines = pd.DataFrame(data['events']['data'])
 deadlines['month'] = pd.DatetimeIndex(deadlines['deadline_time']).month_name()
